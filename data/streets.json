@@ -1,0 +1,57 @@
+/*
+            Street Database
+
+All information retrived from Google Places API.
+**Mapping of the Database:
+  Country : State/region : City : Street : Establishement :full adresse, website, type of Establishement,
+  phone number, establishment logo, map coordinates, Opening time : day: from when, till when.
+
+*/
+{
+  "Deutschland": {
+    "Berlin": {
+      "Berlin": {
+        "Viktoria-Luise-Platz": {
+          "Pro Retail Conlult GmbH": {
+            "adresse": "Viktoria-Luise-Platz 7, 10777 Berlin. Deutschland",
+            "website": "www.pro-retail-de",
+            "type": "company",
+            "phone": "+4916124352617",
+            "icon": "www.pro-retail.de/image/icon.png",
+            "map": "13.12313_14.1241",
+            "opentime": {
+              "Mo": {
+                "from": "10am",
+                "to": "12pm",
+              },
+              "Tu": {
+                "from": "10am",
+                "to": "12pm",
+              },
+              "We": {
+                "from": "10am",
+                "to": "12pm",
+              },
+              "Th": {
+                "from": "10am",
+                "to": "12pm",
+              },
+              "Fr": {
+                "from": "10am",
+                "to": "04pm",
+              },
+              "Sa": {
+                "from": "null",
+                "to": "null",
+              },
+              "Su": {
+                "from": "null",
+                "to": "null",
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
