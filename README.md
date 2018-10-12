@@ -1,30 +1,9 @@
 
-            Street Database
+            Business System Information
 All information retrived from Google Places API.
 **Mapping of the Database:
   Country : State/region : City : Street : Establishement :full adresse, website, type of Establishement,
   phone number, establishment logo, map coordinates, Opening time : day: from when, till when.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
