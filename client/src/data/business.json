@@ -1,0 +1,3834 @@
+[
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "4c4a90d6-a5d5-4740-87bd-a2d35cb3066e": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Bierbar Alkopole",
+      "full_address": "Dircksenstr. 2, 10178 Berlin, Germany",
+      "website": "http://www.alkopole.de/",
+      "type": "bar,restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "map_id": "52.5214488,13.4116026",
+      "phone": "+49 173 9623434",
+      "opentime": [
+        "Monday: 10:00 AM – 11:00 PM",
+        "Tuesday: 10:00 AM – 11:00 PM",
+        "Wednesday: 10:00 AM – 11:00 PM",
+        "Thursday: 9:00 AM – 1:00 AM",
+        "Friday: 9:00 AM – 1:00 AM",
+        "Saturday: 9:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "67b1fcc7-085a-4ee8-b987-3f3f596e5926": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Gelateria La Luna",
+      "full_address": "Rathausstraße 6, 10178 Berlin, Germany",
+      "website": "http://www.gelateria-laluna.de/",
+      "type": "store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5204227,13.4107962",
+      "phone": "+49 30 28094227",
+      "opentime": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "4a03f10d-58fa-47dd-88e4-444ede449c92": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "o2 Shop",
+      "full_address": "Alexanderpl. 3, 10178 Berlin, Germany",
+      "website": "https://www.o2online.de/shops/berlin/134?partnerId=retail-listing&medium=252172",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.521697,13.4146803",
+      "phone": "+49 30 92122188",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "71aeb9d8-8e01-4e3a-ab88-44a8082f9a6b": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "I LOVE BERLIN - MUDDASTADT GmbH",
+      "full_address": "Alexanderpl. 2, 10178 Berlin, Germany",
+      "website": "https://www.muddastadt-berlin.de/store/i-love-berlin-5/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5209397,13.4130353",
+      "phone": "+49 30 28484626",
+      "opentime": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "b896d286-d5c9-4144-9ee0-6e05daca112e": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Fielmann - your optician",
+      "full_address": "Grunerstraße 20 Alexa, 10179 Berlin, Germany",
+      "website": "https://www.fielmann.de/niederlassungen/berlin/10179-grunerstrasse-20/",
+      "type": "store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.519901,13.4147929",
+      "phone": "+49 30 27878890",
+      "opentime": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "bc50fc49-2539-4bfc-8da4-71d464004723": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "denn's Biomarkt",
+      "full_address": "Alexanderpl. 2, 10178 Berlin, Germany",
+      "website": "https://www.denns-biomarkt.de/berlin-alexanderplatz-2/marktseite/",
+      "type": "grocery_or_supermarket,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5208256,13.4144622",
+      "phone": "+49 30 28445265",
+      "opentime": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "98e1b62c-af42-4425-89ba-5b162427e0fb": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Reno",
+      "full_address": "Alexanderpl. 8, 10178 Berlin, Germany",
+      "website": "http://www.reno.de/",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5228194,13.4122521",
+      "phone": "+49 30 2478276",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "c7ab3f5a-a2e9-4330-9eff-4258c6835b7e": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Saturn",
+      "full_address": "Alexanderpl. 3, 10178 Berlin, Germany",
+      "website": "https://www.saturn.de/mcs/marketinfo/_Saturn-Berlin-Alexanderplatz,17261,-3.html?rbtc=gop%7Ctxl%7CSATURN%20Berlin%20SATDE12%20%7C%7Cb%7C%7C",
+      "type": "electronics_store,home_goods_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.52151550000001,13.4149879",
+      "phone": "+49 30 2639970",
+      "opentime": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "81deaaa7-9924-45d0-a601-37db82c1c46d": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "dm-drogerie markt",
+      "full_address": "Alexanderpl. 1, 10178 Berlin, Germany",
+      "website": "https://www.dm.de/",
+      "type": "supermarket,grocery_or_supermarket,store,health,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5215229,13.4123781",
+      "phone": "+49 30 24628632",
+      "opentime": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:30 PM",
+        "Saturday: 9:00 AM – 10:30 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "43fdeede-76be-4316-9744-ba62096dea32": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Galeria Kaufhof Berlin Alexanderplatz",
+      "full_address": "Alexanderpl. 9, 10178 Berlin, Germany",
+      "website": "https://www.galeria-kaufhof.de/filialen/berlin-alexanderplatz/",
+      "type": "department_store,grocery_or_supermarket,clothing_store,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5224246,13.4115417",
+      "phone": "+49 30 247430",
+      "opentime": [
+        "Monday: 9:30 AM – 8:00 PM",
+        "Tuesday: 9:30 AM – 8:00 PM",
+        "Wednesday: 9:30 AM – 8:00 PM",
+        "Thursday: 9:30 AM – 10:00 PM",
+        "Friday: 9:30 AM – 10:00 PM",
+        "Saturday: 9:30 AM – 10:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "97b736bd-2a57-4d88-88a6-f13e9954a29c": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "McDonald's",
+      "full_address": "U-Bahnhof, Alexanderpl. 1, 10178 Berlin, Germany",
+      "website": "https://www.mcdonalds.de/restaurant?id=1473",
+      "type": "restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.5213343,13.4132498",
+      "phone": "+49 30 23457537",
+      "opentime": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 6:00 AM",
+        "Saturday: 11:00 AM – 6:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "1378b6a2-7317-449b-97c1-5119da8d269b": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "C&A",
+      "full_address": "Berolinahaus, Alexanderpl. 1, 10178 Berlin, Germany",
+      "website": "http://www.c-a.com/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5216622,13.4121429",
+      "phone": "+49 30 84712363",
+      "opentime": [
+        "Monday: 9:30 AM – 9:00 PM",
+        "Tuesday: 9:30 AM – 9:00 PM",
+        "Wednesday: 9:30 AM – 9:00 PM",
+        "Thursday: 9:30 AM – 9:00 PM",
+        "Friday: 9:30 AM – 9:00 PM",
+        "Saturday: 9:30 AM – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "bf7418f0-9d74-43c9-b905-008c587818fb": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Dunkin' Donuts",
+      "full_address": "U-Bhf. Alexanderplatz, 10178 Berlin, Germany",
+      "website": "http://www.dunkin-donuts.de/",
+      "type": "bakery,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.5216569,13.4113411",
+      "phone": "+49 30 3083020",
+      "opentime": [
+        "Monday: 5:30 AM – 12:00 AM",
+        "Tuesday: 5:30 AM – 12:00 AM",
+        "Wednesday: 5:30 AM – 12:00 AM",
+        "Thursday: 5:30 AM – 12:00 AM",
+        "Friday: 5:30 AM – 2:00 AM",
+        "Saturday: 5:30 AM – 2:00 AM",
+        "Sunday: 5:30 AM – 12:00 AM"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "72fe372a-ae87-48d6-906e-bb93857ea9b5": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Berliner Sparkasse - Consulting Center",
+      "full_address": "Alexanderpl. 2, 10178 Berlin, Germany",
+      "website": "https://www.berliner-sparkasse.de/",
+      "type": "bank,finance,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "map_id": "52.5208256,13.4144622",
+      "phone": "+49 30 86986969",
+      "opentime": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 6:00 PM",
+        "Friday: 9:30 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "fa642ce0-c988-4782-9752-cad6818b4d41": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Euro Change Wechselstuben AG",
+      "full_address": "S-Bahnhof Alexanderplatz, 10178 Berlin, Germany",
+      "website": "http://www.euro-change.de/",
+      "type": "bank,finance,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.52158549999999,13.4112299",
+      "phone": "+49 30 2415097",
+      "opentime": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "9330b5f1-df02-45a7-b7b5-7a45bbe0d803": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Vodafone Shop",
+      "full_address": "Dircksenstr. 2, 10179 Berlin, Germany",
+      "website": "https://www.vodafone-shops.de/berlin-200528338/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5216144,13.411286",
+      "phone": "+49 162 1019500",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "3cefcf9c-c279-4c2a-b564-8c16da53b3e6": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Auto-Prodam",
+      "full_address": "Alexanderpl. 9, 10178 Berlin, Germany",
+      "website": "http://auto-prodam.com/",
+      "type": "car_dealer,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.522424,13.4115366",
+      "phone": "+380 63 671 8874",
+      "opentime": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "3283ae29-dca9-4517-833a-4254eccc8ebd": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Ann Christine Deutschland GmbH",
+      "full_address": "Tunnel Alexanderpl. 2, 10178 Berlin, Germany",
+      "website": "n.a",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5208,13.41375",
+      "phone": "+49 30 20054166",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "98e2c419-2c34-47aa-9a9b-64c1d4b996be": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Park Inn by Radisson Berlin Alexanderplatz Hotel",
+      "full_address": "Alexanderpl. 7, 10178 Berlin, Germany",
+      "website": "https://www.parkinn.com/hotel-berlin?facilitatorId=CSOSEO&csref=org_gmb_pd_en_sn_ho_BERP1",
+      "type": "spa,bar,lodging,restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "map_id": "52.5228008,13.4128891",
+      "phone": "+49 30 23890",
+      "opentime": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "8424b11a-6afe-4237-a6fb-744a6fbab40e": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "BASE Shop Berlin (Die Mitte)",
+      "full_address": "Tunnel Alexanderpl. 3, 10178 Berlin, Germany",
+      "website": "n.a",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.52162939999999,13.4153688",
+      "phone": "+49 30 92122188",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "3739b11c-9666-4d62-9303-e497dae41ef2": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Tchibo Filiale mit Kaffee Bar",
+      "full_address": "Alexanderpl. 2, 10178 Berlin, Germany",
+      "website": "http://www.tchibo.de/tchibo-filiale-alexanderplatz-2-10178-berlin-a1412802.html",
+      "type": "cafe,clothing_store,home_goods_store,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "map_id": "52.5210205,13.4132534",
+      "phone": "n.a",
+      "opentime": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "46c7f293-661b-4e61-9b5b-e9eceb64ba6c": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Sächsischer Feinbäcker Heberer GmbH",
+      "full_address": "Alexanderpl. 9, 10178 Berlin, Germany",
+      "website": "http://www.heberer.de/",
+      "type": "bakery,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.52218360000001,13.4113535",
+      "phone": "+49 30 24723338",
+      "opentime": [
+        "Monday: 7:00 AM – 7:30 PM",
+        "Tuesday: 7:00 AM – 7:30 PM",
+        "Wednesday: 7:00 AM – 7:30 PM",
+        "Thursday: Closed",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "5353b1f5-fe0a-4b4e-8022-f01507300308": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "L'TUR",
+      "full_address": "Alexanderpl. 3, 10178 Berlin, Germany",
+      "website": "https://www.ltur.com/",
+      "type": "travel_agency,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.5218523,13.4149922",
+      "phone": "+49 30 24722913",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "de7a7d45-cfb8-47d6-b823-93f17a931940": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Classic Conditorei & Café Röntgen",
+      "full_address": "Galeria Gourmet im Kaufhof, Alexanderplatz 9, 10178 Berlin, Germany",
+      "website": "http://www.classic-conditorei.de/",
+      "type": "cafe,bakery,store,restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "map_id": "52.52267,13.4116989",
+      "phone": "+49 30 24781177",
+      "opentime": [
+        "Monday: 9:30 AM – 8:00 PM",
+        "Tuesday: 9:30 AM – 8:00 PM",
+        "Wednesday: 9:30 AM – 8:00 PM",
+        "Thursday: 9:30 AM – 10:00 PM",
+        "Friday: 9:30 AM – 10:00 PM",
+        "Saturday: 9:30 AM – 10:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "c1c6fb50-546f-4244-a832-897a3c96a51c": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Primark",
+      "full_address": "Alexanderpl. 5-7, 10178 Berlin, Germany",
+      "website": "http://www.primark.com/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.5226555,13.4134743",
+      "phone": "+49 30 23457162",
+      "opentime": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "41a5700e-06c4-4865-8838-3950f707937e": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Currywurst Express",
+      "full_address": "Dircksenstraße 1, 10178 Berlin, Germany",
+      "website": "http://www.currywurstexpress.de/",
+      "type": "restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.52127720000001,13.4118745",
+      "phone": "n.a",
+      "opentime": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "fbe16821-25cb-46bb-b81e-ddf0fdfcda11": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Mobil am Alex",
+      "full_address": "Alexanderpl. 8, 10178 Berlin, Germany",
+      "website": "http://mobil-am-alex.de/",
+      "type": "car_wash,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.5229508,13.4127606",
+      "phone": "+49 177 6025494",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "4acb0667-b5ed-4be7-bd2f-7268081bc985": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "ESPRIT",
+      "full_address": "Alexanderplatz, Alexanderpl. 9, 10178 Berlin, Germany",
+      "website": "https://www.esprit.com/storefinder?storeid=325773&location=52.51829910,13.41740036&campaign=0616&brand=0616.googlemybus",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.52129919999999,13.4149189",
+      "phone": "+49 30 22380663",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "8dc66cd1-3bdb-48c4-995f-0eab1083eed7": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Kamps Backstube",
+      "full_address": "Bahnhof Alexanderplatz, Dircksenstr. 2, 10178 Berlin, Germany",
+      "website": "http://www.kamps.de/backstube/",
+      "type": "bakery,cafe,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.5215073,13.411545",
+      "phone": "+49 30 20054501",
+      "opentime": [
+        "Monday: 5:00 AM – 10:00 PM",
+        "Tuesday: 5:00 AM – 10:00 PM",
+        "Wednesday: 5:00 AM – 10:00 PM",
+        "Thursday: 5:00 AM – 10:00 PM",
+        "Friday: 5:00 AM – 12:00 AM",
+        "Saturday: Open 24 hours",
+        "Sunday: 12:00 AM – 10:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "982c0fcc-41c8-478f-8403-4e214012f126": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Burger King",
+      "full_address": "Alexanderpl. 8, 10178 Berlin, Germany",
+      "website": "http://www.burgerking.de/",
+      "type": "restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.5226571,13.4126856",
+      "phone": "+49 30 28886030",
+      "opentime": [
+        "Monday: 8:00 AM – 1:00 AM",
+        "Tuesday: 8:00 AM – 1:00 AM",
+        "Wednesday: 8:00 AM – 1:00 AM",
+        "Thursday: 8:00 AM – 1:00 AM",
+        "Friday: 8:00 AM – 4:00 AM",
+        "Saturday: 8:00 AM – 4:00 AM",
+        "Sunday: 10:00 AM – 12:00 AM"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "3686620c-ff1e-4d11-aab1-42d065486f55": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "New Yorker",
+      "full_address": "Alexanderpl. 3, 10178 Berlin, Germany",
+      "website": "http://www.newyorker.de/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.52145669999999,13.4148517",
+      "phone": "+49 30 24085045",
+      "opentime": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "e9767ea6-a1c0-4c2b-b4e8-a63f53fc566e": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "Al Teatro Eiscafé",
+      "full_address": "Bahnhof Alexanderplatz, Dircksenstraße 2, 10179 Berlin, Germany",
+      "website": "https://alteatro-eismanufaktur.berlin/eiscafes-restaurants/bahnhof-alexanderplatz-berlin-mitte/",
+      "type": "cafe,store,restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.52144699999999,13.411652",
+      "phone": "+49 30 24781241",
+      "opentime": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "8972e619-d00d-4cce-94c9-31c383bb32bb",
+    "6c2e2c28-5ebd-492a-a8e5-66c9d45469bd": {
+      "street_name": "alexanderplatz",
+      "city_name": "Berlin",
+      "business_name": "BoboQ Alexanderplatz",
+      "full_address": "Galeria Kaufhof, Alexanderpl. 9, 10178 Berlin, Germany",
+      "website": "http://www.facebook.de/boboq.alexanderplatz",
+      "type": "cafe,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "map_id": "52.522104,13.411405",
+      "phone": "+49 30 24743245",
+      "opentime": [
+        "Monday: 10:30 AM – 7:30 PM",
+        "Tuesday: 10:30 AM – 7:30 PM",
+        "Wednesday: 10:30 AM – 7:30 PM",
+        "Thursday: 10:30 AM – 9:30 PM",
+        "Friday: 10:30 AM – 9:30 PM",
+        "Saturday: 10:30 AM – 9:30 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "77cfa37c-07a2-425d-85bc-1c6227ae5342": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Juwelier Kraemer",
+      "full_address": "Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "http://www.juweliere-kraemer.de/",
+      "type": "jewelry_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7748403,6.092829999999999",
+      "phone": "+49 241 88741110",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "98548867-b62f-4624-8dad-caa441033814": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "zero Store",
+      "full_address": "Adalbertstraße 32, 52062 Aachen, Germany",
+      "website": "http://www.zero.de/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77478499999999,6.089828",
+      "phone": "+49 241 4093409",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "2f878222-32be-4275-aac1-4004013d50f8": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "TOM TAILOR Store",
+      "full_address": "Adalbertstraße 14, 52062 Aachen, Germany",
+      "website": "http://tom-tailor.eu/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7747415,6.0885498",
+      "phone": "+49 241 46310900",
+      "opentime": [
+        "Monday: 9:30 AM – 8:00 PM",
+        "Tuesday: 9:30 AM – 8:00 PM",
+        "Wednesday: 9:30 AM – 8:00 PM",
+        "Thursday: 9:30 AM – 8:00 PM",
+        "Friday: 9:30 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "310d4237-9aa0-4361-b0db-a2ae210c3226": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Adalbert Apotheke",
+      "full_address": "Adalbertstraße 58, 52062 Aachen, Germany",
+      "website": "n.a",
+      "type": "pharmacy,store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7750707,6.091273200000001",
+      "phone": "+49 241 26090",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "ba1c1213-71bb-421c-b50c-c3c767b50f45": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Görtz Schuhe",
+      "full_address": "Adalbertstraße 53-55, 52062 Aachen, Germany",
+      "website": "https://www.goertz.de/filialen/aachen/goertz-adalbertstrasse-53-55/",
+      "type": "shoe_store,clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7754538,6.091388800000001",
+      "phone": "+49 241 5684400",
+      "opentime": [
+        "Monday: 10:30 AM – 8:00 PM",
+        "Tuesday: 10:30 AM – 8:00 PM",
+        "Wednesday: 10:30 AM – 8:00 PM",
+        "Thursday: 10:30 AM – 8:00 PM",
+        "Friday: 10:30 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "b8c3ff4f-5740-4e07-ba36-f0c75dec71cf": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Street One RMS GmbH & Co. KG",
+      "full_address": "Adalbertstraße 6, 52062 Aachen, Germany",
+      "website": "https://www.mystreetone.de/start/aachen",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7747463,6.0884234",
+      "phone": "+49 241 4010742",
+      "opentime": [
+        "Monday: 10:00 AM – 7:30 PM",
+        "Tuesday: 10:00 AM – 7:30 PM",
+        "Wednesday: 10:00 AM – 7:30 PM",
+        "Thursday: 10:00 AM – 7:30 PM",
+        "Friday: 10:00 AM – 7:30 PM",
+        "Saturday: 10:00 AM – 7:30 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "c1493249-99df-43e7-ae93-f3859dcbce45": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Mango",
+      "full_address": "Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "https://shop.mango.com/de",
+      "type": "clothing_store,shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7744989,6.093589199999999",
+      "phone": "+49 241 90101617",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "4eb369d1-7dde-45f4-9a61-bb9dcf874f3a": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Bertram - Ackens",
+      "full_address": "Adalbertstraße 35, 52062 Aachen, Germany",
+      "website": "https://www.offermann-world.de/de/offermann-blog",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7749896,6.0896439",
+      "phone": "+49 241 31894",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "d9e776bb-a4dd-43df-8cc2-16662b33b3f9": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "PANDORA Store Aachen",
+      "full_address": "Adalbertstraße 43, 52062 Aachen, Germany",
+      "website": "http://de.pandora.net/",
+      "type": "jewelry_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7750616,6.090765299999999",
+      "phone": "+49 241 90101770",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "3cd3ce41-1ca2-4de2-91eb-802be43ff3fc": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Leo The baker and confectioner",
+      "full_address": "Adalbertstraße 1, 52062 Aachen, Germany",
+      "website": "https://www.leo-der-baecker.de/",
+      "type": "bakery,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "50.7749822,6.088326500000001",
+      "phone": "+49 241 21349",
+      "opentime": [
+        "Monday: 7:30 AM – 7:00 PM",
+        "Tuesday: 7:30 AM – 7:00 PM",
+        "Wednesday: 7:30 AM – 7:00 PM",
+        "Thursday: 7:30 AM – 7:00 PM",
+        "Friday: 7:30 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 6:30 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "9e043ad0-407d-495c-9d9b-a5affd5ab7ca": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Guido Kuckelkorn",
+      "full_address": "Adalbertstraße 49, 52062 Aachen, Germany",
+      "website": "https://www.kuckelkorn-rechtsanwaelte.de/",
+      "type": "lawyer,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "50.7751847,6.091060699999999",
+      "phone": "+49 241 40029707",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "3324d0a7-d5e0-4f46-95c8-1e7691659094": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "s.Oliver Store",
+      "full_address": "Adalbertstraße 29/31, 52062 Aachen, Germany",
+      "website": "https://stores.soliver.com/aachen/adalbertstra%C3%9Fe-29/31",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7750698,6.0892179",
+      "phone": "+49 241 446870",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "d59ddf77-bf10-4180-aadb-4a41406cbd01": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "GERRY WEBER",
+      "full_address": "Adalbertstraße 29-31, 52062 Aachen, Germany",
+      "website": "https://www.gerryweber.com/?utm_source=sem&utm_medium=google&utm_campaign=mybusiness_GW84&campaign=sea/brand/mybusiness/GW_DE_84",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77490419999999,6.089427999999999",
+      "phone": "+49 451 41259839",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "8db576dd-891a-469c-893b-985b146e71ea": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "DEICHMANN",
+      "full_address": "Adalbertstraße 16, 52062 Aachen, Germany",
+      "website": "https://stores.deichmann.com/nordrhein-westfalen/aachen/adalbertstrasse-16.html",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7747443,6.0887659",
+      "phone": "+49 241 4090271",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "62f4640b-5d70-44c2-b69d-96fbbf8aafd3": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Wicky Aachen",
+      "full_address": "Adalbertstraße 35, 52062 Aachen, Germany",
+      "website": "https://www.wicky.de/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77498899999999,6.089642999999999",
+      "phone": "+49 241 4001303",
+      "opentime": [
+        "Monday: 9:30 AM – 8:00 PM",
+        "Tuesday: 9:30 AM – 8:00 PM",
+        "Wednesday: 9:30 AM – 8:00 PM",
+        "Thursday: 9:30 AM – 8:00 PM",
+        "Friday: 9:30 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "f6f72f03-1cf3-4358-bd4b-d034f605c8f8": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Shoe House SIEMES Aachen",
+      "full_address": "Adalbertstraße 27, 52062 Aachen, Germany",
+      "website": "https://www.schuhcenter.de/",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77498239999999,6.0890273",
+      "phone": "+49 241 30403",
+      "opentime": [
+        "Monday: 9:30 AM – 8:00 PM",
+        "Tuesday: 9:30 AM – 8:00 PM",
+        "Wednesday: 9:30 AM – 8:00 PM",
+        "Thursday: 9:30 AM – 8:00 PM",
+        "Friday: 9:30 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "8ff41f24-6a69-4674-8682-216a4c8f73da": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Promod",
+      "full_address": "Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "https://www.promod.de/filialen/aachen-aquis-plaza-5591.html",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7745794,6.092863",
+      "phone": "+49 241 40029846",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "08d17c26-3b05-4be3-86ea-41cfa7c16c71": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Bijou Brigitte modische Accessoires AG",
+      "full_address": "Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "http://www.bijou-brigitte.com/",
+      "type": "jewelry_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77495579999999,6.092163499999998",
+      "phone": "n.a",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "0b281381-9af9-4625-a9aa-49f876def303": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Kämpgen GmbH & Co.",
+      "full_address": "Adalbertstraße 33, 52062 Aachen, Germany",
+      "website": "http://www.kaempgen.de/",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7749861,6.089511799999999",
+      "phone": "+49 241 33011",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "89c44a3f-580e-4522-abb1-089236d52cef": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Cuperella Manufaktur",
+      "full_address": "GALERIA Kaufhof, Adalbertstraße 20, 52062 Aachen, Germany",
+      "website": "n.a",
+      "type": "store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7747485,6.089199299999999",
+      "phone": "n.a",
+      "opentime": [
+        "Monday: 9:30 AM – 8:00 PM",
+        "Tuesday: 9:30 AM – 8:00 PM",
+        "Wednesday: 9:30 AM – 8:00 PM",
+        "Thursday: 9:30 AM – 8:00 PM",
+        "Friday: 9:30 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "a3103916-2792-4084-9ac0-48d882004432": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Espresso-Bar Im Glaskubus",
+      "full_address": "Holzgraben 4, 52062 Aachen, Germany",
+      "website": "n.a",
+      "type": "cafe,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "map_id": "50.7749881,6.0878421",
+      "phone": "+49 241 4014606",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "63ce46d6-f712-404b-98a6-f5c1ae35ff4a": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Zara",
+      "full_address": "Aquis Plaza, Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "http://www.zara.com/de",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7745383,6.093232800000001",
+      "phone": "+49 241 9126952",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "8f772a07-89ca-4c23-8130-577354dde29d": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "New Yorker",
+      "full_address": "Adalbertstraße 53-55, 52062 Aachen, Germany",
+      "website": "http://www.newyorker.de/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7753226,6.0913984",
+      "phone": "+49 241 55924220",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "fa65f13e-09fa-4d6a-a22d-c8a8e1b91660": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Fielmann – Ihr Optiker",
+      "full_address": "Adalbertstraße 49, 52062 Aachen, Germany",
+      "website": "https://www.fielmann.de/niederlassungen/aachen/52062-adalbertstrasse-45-47/",
+      "type": "store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7751847,6.091060699999999",
+      "phone": "+49 241 1606920",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "77c5ac3a-fe0c-44e6-b7ed-ad14835c246c": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Parfümerie Douglas",
+      "full_address": "Adalbertstraße 37, 52062 Aachen, Germany",
+      "website": "https://www.douglas.de/douglas/Parf%C3%BCmerie/Aachen/0073/0002/vst.html?trac=de.16x.dgl.opm.filialenDE.000027",
+      "type": "beauty_salon,clothing_store,store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77497280000001,6.0897782",
+      "phone": "+49 241 22100",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "ba8a5548-52ca-47d8-a67f-5424def20543": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Aachener Bank eG - Geldautomat im Aquis Plaza",
+      "full_address": "Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "https://www.aachener-bank.de/service/geldautomaten/eigene-geldautomaten.html",
+      "type": "atm,finance,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "map_id": "50.7747117,6.092966599999999",
+      "phone": "+49 241 4620",
+      "opentime": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "9fc28e2b-8d8b-47ab-98e4-b8401108eb89": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "NORDSEE GmbH",
+      "full_address": "Adalbertstraße 48, 52062 Aachen, Germany",
+      "website": "http://www.nordsee.com/",
+      "type": "restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "50.7749643,6.090904399999999",
+      "phone": "+49 241 33383",
+      "opentime": [
+        "Monday: 9:30 AM – 7:00 PM",
+        "Tuesday: 9:30 AM – 7:00 PM",
+        "Wednesday: 9:30 AM – 7:00 PM",
+        "Thursday: 9:30 AM – 8:00 PM",
+        "Friday: 9:30 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "a00571a4-0773-4204-8d6b-cacea1b27104": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Biba + Pariscop Daub GmbH",
+      "full_address": "Adalbertstraße 34, 52062 Aachen, Germany",
+      "website": "n.a",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7747485,6.089199299999999",
+      "phone": "+49 241 1602828",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "79c5b354-23ba-43f2-b56b-922ea1cfe30d": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Vodafone Shop",
+      "full_address": "Aquis Plaza, Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "https://www.vodafone-shops.de/aachen-203344569/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77478,6.093032900000001",
+      "phone": "+49 241 43579888",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "ee9ad3bc-bfa1-465c-9d53-b952f938fc57": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "mobilcom-debitel",
+      "full_address": "Adalbertstraße 56, 52062 Aachen, Germany",
+      "website": "https://mobilcom-debitel.de/shops/Aachen-Adalbertstrasse",
+      "type": "point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "50.77506589999999,6.0911784",
+      "phone": "+49 241 99767860",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "d2e95c1c-bc06-4848-80b8-f75c695fccf1": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "ORSAY",
+      "full_address": "Adalbertstraße 50, 52062 Aachen, Germany",
+      "website": "http://www.orsay.com/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.774926,6.090861100000001",
+      "phone": "+49 241 29119",
+      "opentime": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "76a6c245-2ea5-4256-b95c-96b29414af4c": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Vodafone Shop Aachen XM Mobile GmbH / Partneragentur",
+      "full_address": "Adalbertstraße 34, 52062 Aachen, Germany",
+      "website": "http://www.vodafone.de/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7748131,6.089979400000001",
+      "phone": "+49 241 4459235",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "0a2a8547-8dd0-468f-b641-91de79b3cd80": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "ETERNA Brand Store",
+      "full_address": "Adalbertstraße 41, 52062 Aachen, Germany",
+      "website": "https://www.eterna.de/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7750256,6.090524899999999",
+      "phone": "n.a",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "38bf2112-7e3b-437f-8589-5eeda3aba6f0": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "BONITA GmbH",
+      "full_address": "Adalbertstraße 32, 52062 Aachen, Germany",
+      "website": "http://www.bonita.eu/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7747854,6.0898283",
+      "phone": "+49 241 1605222",
+      "opentime": [
+        "Monday: 10:00 AM – 6:30 PM",
+        "Tuesday: 10:00 AM – 6:30 PM",
+        "Wednesday: 10:00 AM – 6:30 PM",
+        "Thursday: 10:00 AM – 6:30 PM",
+        "Friday: 10:00 AM – 6:30 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "d4f9b453-a20a-45be-8046-247b7be65b66": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "TALLY WEiJL",
+      "full_address": "Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "https://locator.tally-weijl.com/aachen/adalberstrasse-100?utm_source=googlemaps&utm_campaign=local&utm_medium=organic&utm_term=2N55",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77463710000001,6.0923885",
+      "phone": "+49 241 1605960",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "d5e937a3-c55b-4cb4-9882-c1080159b9ea": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Kraemer GmbH",
+      "full_address": "Adalbertstraße 3, 52062 Aachen, Germany",
+      "website": "http://www.juweliere-kraemer.de/",
+      "type": "jewelry_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77491049999999,6.088553799999998",
+      "phone": "+49 241 25876",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "88925e13-1134-4506-a053-c770a16af1dc": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Fossil Store",
+      "full_address": "Peterstraße 2, 52062 Aachen, Germany",
+      "website": "http://www.fossil.de/",
+      "type": "jewelry_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7750277,6.0882745",
+      "phone": "+49 241 44689997",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "daeaf251-9758-48f0-97cb-89645b1f30fb": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Pommes Culinair",
+      "full_address": "Adalbertstraße 54, 52062 Aachen, Germany",
+      "website": "n.a",
+      "type": "restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "50.7750285,6.091146500000001",
+      "phone": "+49 241 4018598",
+      "opentime": [
+        "Monday: 11:00 AM – 8:00 PM",
+        "Tuesday: 11:00 AM – 8:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "968bd644-3895-418d-a506-96ea1213cee7": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Apollo-Optik",
+      "full_address": "im Aquis Plaza, Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "https://www.apollo.de/store-7794/aachen?utm_source=listing&utm_medium=google",
+      "type": "store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.774853,6.093473100000001",
+      "phone": "+49 241 16035303",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "db848262-e46d-4312-86ff-23c33107f786": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Galeria Kaufhof Aachen",
+      "full_address": "Adalbertstraße 20-30, 52062 Aachen, Germany",
+      "website": "https://www.galeria-kaufhof.de/filialen/aachen",
+      "type": "department_store,grocery_or_supermarket,clothing_store,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.774474,6.089596999999999",
+      "phone": "+49 241 47670",
+      "opentime": [
+        "Monday: 9:30 AM – 8:00 PM",
+        "Tuesday: 9:30 AM – 8:00 PM",
+        "Wednesday: 9:30 AM – 8:00 PM",
+        "Thursday: 9:30 AM – 8:00 PM",
+        "Friday: 9:30 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "06aa408e-f367-4e87-98d4-8e5ea0846a1d": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Calzedonia",
+      "full_address": "Adalbertstraße 52, 52062 Aachen, Germany",
+      "website": "http://de.calzedonia.com/?utm_medium=organic&utm_source=google&utm_campaign=local&utm_term=DE-AACHEN",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7749919,6.091012399999999",
+      "phone": "+49 241 99791746",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "cdd016c8-77b9-4069-b3be-c9afc550b5c4": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "H&M",
+      "full_address": "Adalbertstraße 39, 52062 Aachen, Germany",
+      "website": "http://www.hm.com/de/",
+      "type": "clothing_store,home_goods_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7750092,6.089962299999999",
+      "phone": "+49 800 6655900",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "a40e6dbf-18f6-43a0-a1de-e8eacb56ccab": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Betty Barclay",
+      "full_address": "Adalbertstraße 41A, 52062 Aachen, Germany",
+      "website": "https://stores.bettybarclay.com/de/aachen/betty-barclay-store/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7750372,6.090527",
+      "phone": "+49 241 99770632",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "46ffdb06-7dd0-49ab-a228-4f0b52d8e290": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "I AM Store",
+      "full_address": "Adalbertstraße 41B, 52062 Aachen, Germany",
+      "website": "http://www.i-am.com/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.775001,6.090657999999999",
+      "phone": "+49 221 962750",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "c8226ab1-0d49-4634-b565-ec93c325609d": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Foot Locker",
+      "full_address": "Adalbertstraße 51, 52062 Aachen, Germany",
+      "website": "https://www.footlocker.de/",
+      "type": "shoe_store,clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7752974,6.091090100000002",
+      "phone": "+49 241 95716839",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "00c136c7-730b-44a7-9ac2-69e78f84afc5": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Tchibo shop with coffee bar",
+      "full_address": "Adalbertstraße 60, 52062 Aachen, Germany",
+      "website": "http://www.tchibo.de/tchibo-filiale-adalbertstrasse-60-52062-aachen-a1412588.html",
+      "type": "cafe,clothing_store,home_goods_store,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "map_id": "50.7751151,6.0915703",
+      "phone": "n.a",
+      "opentime": [
+        "Monday: 9:30 AM – 7:00 PM",
+        "Tuesday: 9:30 AM – 7:00 PM",
+        "Wednesday: 9:30 AM – 7:00 PM",
+        "Thursday: 9:30 AM – 7:00 PM",
+        "Friday: 9:30 AM – 7:00 PM",
+        "Saturday: 9:30 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "4384e97a-3138-424f-9a61-3ad80db1a67d": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "CHRIST Juweliere und Uhrmacher",
+      "full_address": "Adalbertstraße 57, 52062 Aachen, Germany",
+      "website": "https://www.christ.de/filiale/010/aachen-adalbertstr?utm_source=local&utm_medium=organic&utm_campaign=gmb",
+      "type": "jewelry_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7754853,6.0916101",
+      "phone": "+49 241 28048",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "99363e7c-54dd-4451-9ea0-bcdfbe83130a": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Vodafone Shop",
+      "full_address": "Adalbertstraße 25a, 52062 Aachen, Germany",
+      "website": "https://www.vodafone-shops.de/aachen-203344151/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.77493810000001,6.088620000000001",
+      "phone": "+49 173 9060138",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "13262d94-8a74-4ef6-a9bc-c460c8f23121": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "o2 Shop",
+      "full_address": "Adalbertstraße 12, 52062 Aachen, Germany",
+      "website": "https://www.o2online.de/shops/aachen/2?partnerId=retail-listing&medium=248673",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7747335,6.088506100000001",
+      "phone": "+49 241 56844284",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "1cf740e4-a313-4364-86e9-9b79da828466": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "SWAROVSKI Aachen",
+      "full_address": "Friedrich-Wilhelm-Platz 1, 52062 Aachen, Germany",
+      "website": "https://www.swarovski.com/de-DE/",
+      "type": "jewelry_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.774578,6.0880844",
+      "phone": "+49 241 4009955",
+      "opentime": [
+        "Monday: 10:00 AM – 6:30 PM",
+        "Tuesday: 10:00 AM – 6:30 PM",
+        "Wednesday: 10:00 AM – 6:30 PM",
+        "Thursday: 10:00 AM – 6:30 PM",
+        "Friday: 10:00 AM – 6:30 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "7971668b-f4e1-4d12-9e06-c6ff58335243": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Unitymedia Partnerstore",
+      "full_address": "Adalbertstraße 37, 52062 Aachen, Germany",
+      "website": "http://unitymedia.de/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "50.77482389999999,6.093001000000001",
+      "phone": "+49 241 94378210",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "eaac1ab2-0d93-466e-94d9-0339b5535fa1": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "o2 Shop",
+      "full_address": "Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "https://www.o2online.de/shops/aachen/3?partnerId=retail-listing&medium=248856",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "50.7750238,6.091933999999999",
+      "phone": "+49 241 90081495",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "46ed293e-7a11-4dca-8154-df11ae1b41e3",
+    "5171403c-9187-4061-9209-0f7c7bc2894d": {
+      "street_name": "adalbertstraße",
+      "city_name": "Aachen",
+      "business_name": "Nobis Printen e.K.",
+      "full_address": "Aquis Plaza, Adalbertstraße 100, 52062 Aachen, Germany",
+      "website": "https://www.nobis-printen.de/",
+      "type": "bakery,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "50.775155,6.092292999999999",
+      "phone": "+49 241 968000",
+      "opentime": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 8:00 PM",
+        "Saturday: 7:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "c84a6d02-a801-4f48-8f6a-f5b752667cec": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Gerland Hörgeräte Bielefeld-Jahnplatz",
+      "full_address": "Niederwall 1, 33602 Bielefeld, Germany",
+      "website": "http://www.gerland-bielefeld.de/",
+      "type": "store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0229244,8.5336018",
+      "phone": "+49 521 177005",
+      "opentime": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "0bffd342-e271-4b0c-bd9d-b0b02cf9e9b6": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Geschäftsstelle/ Kundencenter Neue Westfälische",
+      "full_address": "Niedernstraße 27, 33602 Bielefeld, Germany",
+      "website": "http://www.nw.de/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.0221605,8.531579599999997",
+      "phone": "+49 521 555888",
+      "opentime": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "fd5ff021-3bf7-487b-83b0-7ce758ef2616": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Café Knigge, Filiale Niedernstraße",
+      "full_address": "Niedernstraße 15, 33602 Bielefeld, Germany",
+      "website": "http://www.cafe-knigge.de/",
+      "type": "cafe,bakery,store,restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "map_id": "52.021547,8.531608799999999",
+      "phone": "+49 521 61344",
+      "opentime": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "3c385b5c-1fe0-40fa-92ac-f8364196b2d6": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Buchhandlung Stute GmbH",
+      "full_address": "Niedernstraße 37, 33602 Bielefeld, Germany",
+      "website": "n.a",
+      "type": "book_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02239849999999,8.5321186",
+      "phone": "n.a",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "3e416be4-7afc-4097-ac60-b34b531ca568": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Rituals",
+      "full_address": "Niedernstraße 18, 33602 Bielefeld, Germany",
+      "website": "https://www.rituals.com/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02204630000001,8.531967700000001",
+      "phone": "+49 521 97796416",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "7af803d7-81da-415f-b8c5-2451d761fe6b": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Puro Coffee",
+      "full_address": "Jahnpl. 7, 33602 Bielefeld, Germany",
+      "website": "http://www.facebook.com/purocoffeebielefeld/",
+      "type": "cafe,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "map_id": "52.02362319999999,8.532826499999997",
+      "phone": "+49 173 9595155",
+      "opentime": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 4:00 AM",
+        "Saturday: 9:00 AM – 4:00 AM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "7d1f1e7c-f06c-4f37-b751-5f194d9dca0a": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Schuhhaus Zumnorde Studio Bielefeld",
+      "full_address": "Niedernstraße 16, 33602 Bielefeld, Germany",
+      "website": "https://www.zumnorde.de/schuhhaeuser/zumnorde-studio-bielefeld-niedernstr.-16-c52e26e692f1acf15f6883c0bb49ff30.html",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0219225,8.531948",
+      "phone": "+49 521 9658760",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "abb6e394-1564-4d91-9194-54b3202838e2": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Marc O'Polo",
+      "full_address": "Niedernstraße 14, 33602 Bielefeld, Germany",
+      "website": "http://de.marc-o-polo.com/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0217842,8.5319378",
+      "phone": "+49 521 5222042",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "29784376-80d8-43b9-8db8-d8d4bdcf2121": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Klötzer's Restaurant",
+      "full_address": "Niedernstraße 41, 33602 Bielefeld, Germany",
+      "website": "https://www.kloetzer-delikatessen.de/",
+      "type": "restaurant,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.0226067,8.532546900000002",
+      "phone": "+49 521 9677520",
+      "opentime": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "dbaf98cb-f4b9-4547-ae2f-98649b3bed21": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "FIRST REISEBÜRO Bielefeld",
+      "full_address": "Niedernstraße 21, 33602 Bielefeld, Germany",
+      "website": "https://www.first-reisebuero.de/bielefeld2#Local",
+      "type": "travel_agency,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.0219414,8.5309477",
+      "phone": "+49 521 560660",
+      "opentime": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 6:00 PM",
+        "Friday: 9:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "a60d70a3-93d4-4a7f-a08f-20fe1431b680": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Volksbank Bielefeld-Gütersloh eG - SB-Fil. Niedernstr.",
+      "full_address": "Niedernstraße 25, 33602 Bielefeld, Germany",
+      "website": "https://www.volksbank-bi-gt.de/",
+      "type": "bank,finance,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "map_id": "52.02203179999999,8.531678",
+      "phone": "+49 521 5440",
+      "opentime": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "b5e523f0-2ff1-43fd-9703-5f1f1de4d179": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Vodafone",
+      "full_address": "Bahnhofstraße 33, 33602 Bielefeld, Germany",
+      "website": "https://www.vodafone-shops.de/bielefeld-200535544/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02591229999999,8.5310651",
+      "phone": "+49 173 2142324",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "fe6741aa-93a4-456b-81f8-817a830929fe": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Blumen Risse",
+      "full_address": "Niederwall 1, 33602 Bielefeld, Germany",
+      "website": "https://www.blumen-risse.de/",
+      "type": "florist,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0229243,8.5336018",
+      "phone": "+49 521 3057056",
+      "opentime": [
+        "Monday: 8:00 AM – 6:30 PM",
+        "Tuesday: 8:00 AM – 6:30 PM",
+        "Wednesday: 8:00 AM – 6:30 PM",
+        "Thursday: 8:00 AM – 6:30 PM",
+        "Friday: 8:00 AM – 6:30 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "dfb92362-3171-4f8a-adfd-e7c4cbfa8a22": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Klötzers Delikatessen",
+      "full_address": "Niedernstraße 41, 33602 Bielefeld, Germany",
+      "website": "http://www.kloetzer-delikatessen.de/",
+      "type": "store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0225697,8.532480999999999",
+      "phone": "+49 521 967750",
+      "opentime": [
+        "Monday: 10:00 AM – 6:30 PM",
+        "Tuesday: 10:00 AM – 6:30 PM",
+        "Wednesday: 10:00 AM – 6:30 PM",
+        "Thursday: 10:00 AM – 6:30 PM",
+        "Friday: 9:30 AM – 6:30 PM",
+        "Saturday: 9:30 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "bcc76ecb-f045-4b09-82d2-5d366e7f6e3a": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Commerzbank Bielefeld",
+      "full_address": "Jahnpl. 7, 33602 Bielefeld, Germany",
+      "website": "https://www.commerzbank.de/filialen/de/Bielefeld",
+      "type": "bank,atm,finance,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "map_id": "52.023539,8.532878",
+      "phone": "+49 521 5410",
+      "opentime": [
+        "Monday: 9:00 AM – 1:00 PM, 2:00 – 6:00 PM",
+        "Tuesday: 9:00 AM – 1:00 PM, 2:00 – 6:00 PM",
+        "Wednesday: 9:00 AM – 1:00 PM, 2:00 – 6:00 PM",
+        "Thursday: 9:00 AM – 1:00 PM, 2:00 – 6:00 PM",
+        "Friday: 9:00 AM – 1:00 PM, 2:00 – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "748307dd-5859-4b95-b19b-3cdd1c1ccb93": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Schuhhaus Zumnorde Signora Bielefeld",
+      "full_address": "Niedernstraße 22, 33602 Bielefeld, Germany",
+      "website": "https://www.zumnorde.de/schuhhaeuser/zumnorde-signora-bielefeld-niedernstrasse-22-3b97c1a3cce42471da59722141b56253.html",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0221792,8.5320594",
+      "phone": "+49 521 9658790",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "451f14f5-0a02-41df-bf6f-3c342ab738b3": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Pizza Hut",
+      "full_address": "Jahnpl. 10, 33602 Bielefeld, Germany",
+      "website": "https://www.pizzahut.de/restaurants-express/portraits-der-restaurants/am-freiheitsplatz-hanau/",
+      "type": "restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.02275909999999,8.5333109",
+      "phone": "+49 521 1368181",
+      "opentime": [
+        "Monday: 10:00 AM – 11:00 PM",
+        "Tuesday: 10:00 AM – 11:00 PM",
+        "Wednesday: 10:00 AM – 11:00 PM",
+        "Thursday: 10:00 AM – 11:00 PM",
+        "Friday: 10:00 AM – 12:00 AM",
+        "Saturday: 10:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "3692278a-3a85-4d1e-b830-01f0df1f6804": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "The Coffee Store",
+      "full_address": "Obernstraße 2, 33602 Bielefeld, Germany",
+      "website": "http://www.coffee-store.de/",
+      "type": "cafe,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "map_id": "52.020516,8.531614400000002",
+      "phone": "+49 521 9710795",
+      "opentime": [
+        "Monday: 7:30 AM – 7:00 PM",
+        "Tuesday: 7:30 AM – 7:00 PM",
+        "Wednesday: 7:30 AM – 7:00 PM",
+        "Thursday: 7:30 AM – 7:00 PM",
+        "Friday: 7:30 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "a31304fb-57f0-4d2b-87be-1558cf565d2a": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Fielmann – Ihr Optiker",
+      "full_address": "Oberntorwall 25, 33602 Bielefeld, Germany",
+      "website": "https://www.fielmann.de/niederlassungen/bielefeld/33602-oberntorwall-25/",
+      "type": "store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0228526,8.532514599999999",
+      "phone": "+49 521 173089",
+      "opentime": [
+        "Monday: 9:30 AM – 7:00 PM",
+        "Tuesday: 9:30 AM – 7:00 PM",
+        "Wednesday: 9:30 AM – 7:00 PM",
+        "Thursday: 9:30 AM – 7:00 PM",
+        "Friday: 9:30 AM – 7:00 PM",
+        "Saturday: 9:30 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "d75782ac-3034-404a-9008-6cde2d24f7f0": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Bäckerei Jörg Olsson GmbH",
+      "full_address": "Niedernstraße 33, 33602 Bielefeld, Germany",
+      "website": "http://www.baeckerei-olsson.de/",
+      "type": "bakery,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.0223531,8.531972099999999",
+      "phone": "+49 521 174216",
+      "opentime": [
+        "Monday: 7:00 AM – 7:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: 7:00 AM – 7:00 PM",
+        "Thursday: 7:00 AM – 7:00 PM",
+        "Friday: 7:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "3194163b-40f5-44ca-b744-84cc8e5a2e00": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "BUTLERS",
+      "full_address": "Niedernstraße 13, 33602 Bielefeld, Germany",
+      "website": "https://www.butlers.com/butlers-bielefeld-niedernstr.-13",
+      "type": "furniture_store,home_goods_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.021431,8.5316619",
+      "phone": "+49 521 5202355",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "20eda740-ca33-4e45-b9f4-5a4efd78c52c": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Hilfiger Denim Store",
+      "full_address": "Niedernstraße 18, 33602 Bielefeld, Germany",
+      "website": "https://de.tommy.com/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0219912,8.531902100000002",
+      "phone": "+49 521 56078920",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "bc117081-1cce-48b7-bed7-ba8fdecf7aee": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "BASE Shop Bielefeld",
+      "full_address": "Niedernstraße 39, 33602 Bielefeld, Germany",
+      "website": "n.a",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0224847,8.5322637",
+      "phone": "n.a",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "319b2d6e-ac8b-4207-826c-0853ec630de4": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "WMF Bielefeld - Niedernstraße",
+      "full_address": "Niedernstraße 19, 33602 Bielefeld, Germany",
+      "website": "https://www.wmf.com/de/",
+      "type": "furniture_store,home_goods_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02185309999999,8.531561399999998",
+      "phone": "+49 521 61260",
+      "opentime": [
+        "Monday: 9:30 AM – 7:00 PM",
+        "Tuesday: 9:30 AM – 7:00 PM",
+        "Wednesday: 9:30 AM – 7:00 PM",
+        "Thursday: 9:30 AM – 7:00 PM",
+        "Friday: 9:30 AM – 7:00 PM",
+        "Saturday: 9:30 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "308dd24b-ca8d-4d66-af9b-9fc36127a936": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Plettenberg GmbH",
+      "full_address": "Niedernstraße 6, 33602 Bielefeld, Germany",
+      "website": "n.a",
+      "type": "jewelry_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02138720000001,8.5319611",
+      "phone": "+49 521 62943",
+      "opentime": [
+        "Monday: 12:00 – 6:30 PM",
+        "Tuesday: 10:00 AM – 6:30 PM",
+        "Wednesday: 10:00 AM – 6:30 PM",
+        "Thursday: 10:00 AM – 6:30 PM",
+        "Friday: 10:00 AM – 6:30 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "a992578c-388c-419d-a77d-f776c4d0421f": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Benetton",
+      "full_address": "Niedernstraße 12, 33602 Bielefeld, Germany",
+      "website": "https://de.benetton.com/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0216456,8.531915999999999",
+      "phone": "+49 521 5219898",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "bbd274a2-b8cf-41ba-a800-fc2306bc7552": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Lösekann Textilhandels GmbH",
+      "full_address": "Niedernstraße 8, 33602 Bielefeld, Germany",
+      "website": "http://www.loesekann.de/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0215375,8.5318718",
+      "phone": "+49 521 966240",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "48296bd8-e1be-4905-9298-0ea5625f5e30": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "OZONE",
+      "full_address": "Niedernstraße 35, 33602 Bielefeld, Germany",
+      "website": "http://ozone-sports.com/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0224027,8.5320336",
+      "phone": "+49 521 5573445",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "3ef63089-f07f-4a91-8a70-f08954a84ab7": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Schiesser",
+      "full_address": "Niedernstraße 25, 33602 Bielefeld, Germany",
+      "website": "http://www.schiesserag.com/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02200389999999,8.5315199",
+      "phone": "+49 521 96879200",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "8142b215-bc23-47a9-85a0-787943822edb": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "PLUSPUNKT APOTHEKE BIELEFELD",
+      "full_address": "Niedernstraße 37, 33602 Bielefeld, Germany",
+      "website": "https://www.pluspunkt-apotheke-bielefeld.de/",
+      "type": "pharmacy,store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0224049,8.53217",
+      "phone": "+49 521 5202600",
+      "opentime": [
+        "Monday: 8:00 AM – 7:30 PM",
+        "Tuesday: 8:00 AM – 7:30 PM",
+        "Wednesday: 8:00 AM – 7:30 PM",
+        "Thursday: 8:00 AM – 7:30 PM",
+        "Friday: 8:00 AM – 7:30 PM",
+        "Saturday: 9:00 AM – 6:30 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "80d7a7fe-ae4d-4484-bab1-6152f7ea38a6": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Papillote Hair Shop",
+      "full_address": "3, Niederwall 1, 33602 Bielefeld, Germany",
+      "website": "n.a",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02300349999999,8.5334516",
+      "phone": "+49 521 138213",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "36ecd116-c06d-4bf6-9477-e0c800d1ea5a": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Telekom Shop",
+      "full_address": "Niedernstraße 41, 33602 Bielefeld, Germany",
+      "website": "https://shopsuche.telekomshop.de/shop_details/2482007",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02262,8.532484199999999",
+      "phone": "+49 521 5202497",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "9a8e6325-3e74-48f2-82e2-97de6e4102b8": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Starbucks",
+      "full_address": "Niedernstraße 41, 33602 Bielefeld, Germany",
+      "website": "https://www.starbucks.de/",
+      "type": "cafe,store,restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "map_id": "52.0225961,8.532542500000002",
+      "phone": "+49 521 96750937",
+      "opentime": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "d3e1932d-6aaf-4d99-a5d6-beed9f70e196": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Cartoon Store",
+      "full_address": "Niedernstraße 16, 33602 Bielefeld, Germany",
+      "website": "https://stores.bettybarclay.com/de/bielefeld/cartoon-store/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0219014,8.5319828",
+      "phone": "+49 521 96799278",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "f2a8d564-34e3-45f3-946a-3b70749c4e4e": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "G-Star RAW Store",
+      "full_address": "Bahnhofstraße 28, 33602 Bielefeld, Germany",
+      "website": "https://www.g-star.com/stores/de/g-star-raw-store-bielefeld-loom?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=yext&utm_content=listing",
+      "type": "clothing_store,shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0256439,8.5320484",
+      "phone": "+49 521 78715633",
+      "opentime": [
+        "Monday: 9:30 AM – 8:00 PM",
+        "Tuesday: 9:30 AM – 8:00 PM",
+        "Wednesday: 9:30 AM – 8:00 PM",
+        "Thursday: 9:30 AM – 8:00 PM",
+        "Friday: 9:30 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "bf650971-f26b-4c89-94c9-bff0f93569be": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Wolf GmbH & Co. KG",
+      "full_address": "Niedernstraße 21, 33602 Bielefeld, Germany",
+      "website": "https://www.parfuemeriewolf.de/",
+      "type": "clothing_store,store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0219414,8.5309477",
+      "phone": "+49 521 69680",
+      "opentime": [
+        "Monday: 9:30 AM – 7:30 PM",
+        "Tuesday: 9:30 AM – 7:30 PM",
+        "Wednesday: 9:30 AM – 7:30 PM",
+        "Thursday: 9:30 AM – 7:30 PM",
+        "Friday: 9:30 AM – 7:30 PM",
+        "Saturday: 9:30 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "67a6df0a-b7c1-42ef-973c-8e182e5e4ce3": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "HOUSE OF GERRY WEBER",
+      "full_address": "Niedernstraße 29-31, 33602 Bielefeld, Germany",
+      "website": "http://www.gerryweber.de/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02229629999999,8.531844999999999",
+      "phone": "+49 521 9688000",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "a2b1cf3e-eb57-405f-9331-edef5ef7461b": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Görtz 17 Schuhe",
+      "full_address": "Niedernstraße 18, 33602 Bielefeld, Germany",
+      "website": "https://www.goertz.de/filialen/bielefeld/goertz17-niedernstrasse-18/",
+      "type": "shoe_store,clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0219768,8.5320015",
+      "phone": "+49 521 137717",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "90b33278-5d35-483d-86d9-6eeb75e9cc02": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "ECCO",
+      "full_address": "Niedernstraße 14, 33602 Bielefeld, Germany",
+      "website": "http://de.ecco.com/",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0217842,8.5319378",
+      "phone": "+49 521 5603601",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "94eb6694-bf4c-4b90-83eb-71277b0ffcc0": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Rossmann Drogeriemarkt",
+      "full_address": "Niedernstraße 26, 33602 Bielefeld, Germany",
+      "website": "http://www.rossmann.de/",
+      "type": "liquor_store,home_goods_store,store,health,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.02226139999999,8.5323567",
+      "phone": "+49 521 5214761",
+      "opentime": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "cd8f1766-2ac9-46da-9645-ea93d4cec21f": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Zeitungsverlag Neue Westfälische GmbH & Co. KG",
+      "full_address": "Niedernstraße 21-27, 33602 Bielefeld, Germany",
+      "website": "http://www.nw.de/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.0219414,8.5309477",
+      "phone": "+49 521 5550",
+      "opentime": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "ab588023-0c82-4002-82ed-5c770d7d961d": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "SportScheck Bielefeld",
+      "full_address": "Bahnhofstraße 1, 33602 Bielefeld, Germany",
+      "website": "https://www.sportscheck.com/filialen/bielefeld/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0234808,8.532301399999998",
+      "phone": "+49 521 9667749",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "5a1348bc-d277-41a1-9b43-16bba6b9eaf4": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Modehaus Finke e.K.",
+      "full_address": "Niedernstraße 17, 33602 Bielefeld, Germany",
+      "website": "http://www.finke.eu/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0216572,8.5315555",
+      "phone": "+49 521 16394330",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "b2351c09-946f-4655-871c-655c25010d4d": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Schuhhaus Degen / Zumnorde Bielefeld",
+      "full_address": "Niedernstraße 28, 33602 Bielefeld, Germany",
+      "website": "https://www.zumnorde.de/schuhhaeuser/schuhhaus-degen-bielefeld-niedernstr.-28-7b6ea45d9df9cbc90fd888fe2292d8ff.html",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0222971,8.532627299999998",
+      "phone": "+49 521 9658710",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "cb1c3c54-3211-4bce-826e-53bf31aa768c",
+    "f9093c96-203c-46b6-8200-cddd4eb6c75c": {
+      "street_name": "niedernstraße",
+      "city_name": "Bielefeld",
+      "business_name": "Douglas",
+      "full_address": "Niedernstraße 24, 33602 Bielefeld, Germany",
+      "website": "https://www.douglas.de/douglas/Parf%C3%BCmerie/Bielefeld/0133/0002/vst.html?trac=de.16x.dgl.opm.filialenDE.000027",
+      "type": "beauty_salon,clothing_store,store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.0222109,8.532181299999998",
+      "phone": "+49 521 68259",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "3125f8a3-e325-435f-ba91-6cac5373e40a": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Isico - U.S.A. - Sports Eric Isichei & Söhne Sportbedarf",
+      "full_address": "Karl-Marx-Straße 130, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.47744159999999,13.4383181",
+      "phone": "+49 30 6810028",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "5f83b5f2-b1f9-4454-80f5-6d5c72fbc28b": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "NAZAR Cosmetics & Esthetics Berlin",
+      "full_address": "Karl-Marx-Straße 112, 12043 Berlin, Germany",
+      "website": "http://www.nazar-ce.com/",
+      "type": "beauty_salon,hair_care,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.4785882,13.4375579",
+      "phone": "+49 30 68084555",
+      "opentime": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "ad748e75-a58c-4ee3-9d52-384a7230da00": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Cecile Paris",
+      "full_address": "Karl-Marx-Straße 104, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.4791809,13.4372068",
+      "phone": "n.a",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "f9414aab-bdd4-4c19-b82e-c8d52037024f": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Bocert Consulting",
+      "full_address": "Karl-Marx-Straße 107, 12043 Berlin, Germany",
+      "website": "http://www.bocert.de/",
+      "type": "point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.47924,13.43826",
+      "phone": "+49 800 2620000",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "2f229f53-a003-49e3-a112-c2ca07dee025": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Kevsercom",
+      "full_address": "Karl-Marx-Straße 208, 12055 Berlin, Germany",
+      "website": "n.a",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.47150999999999,13.4410208",
+      "phone": "+49 30 68086901",
+      "opentime": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "00aa89fe-5f44-4ace-9580-8bb432a207a6": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Rossmann Drogeriemarkt",
+      "full_address": "Karl-Marx-Straße 66, 12043 Berlin, Germany",
+      "website": "http://www.rossmann.de/",
+      "type": "liquor_store,home_goods_store,store,health,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4821503,13.4326223",
+      "phone": "+49 30 60690028",
+      "opentime": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "ce45751e-6986-4494-9c40-83cb98ad9fb9": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "AZ Mobile Phone Shop II Akram Zalloom",
+      "full_address": "Karl-Marx-Straße 127, 12043 Berlin, Germany",
+      "website": "http://www.az-handyshop.de/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4777723,13.4386212",
+      "phone": "+49 30 68084544",
+      "opentime": [
+        "Monday: 10:30 AM – 7:30 PM",
+        "Tuesday: 10:30 AM – 7:30 PM",
+        "Wednesday: 10:30 AM – 7:30 PM",
+        "Thursday: 10:30 AM – 7:30 PM",
+        "Friday: 10:30 AM – 7:30 PM",
+        "Saturday: 10:30 AM – 7:30 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "785ff2df-ee13-4f57-8fa3-09c06f7a5ed4": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Vodafone Shop",
+      "full_address": "Karl-Marx-Straße 115, 12043 Berlin, Germany",
+      "website": "https://www.vodafone-shops.de/berlin-203343605/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4784016,13.4382661",
+      "phone": "+49 30 54857427",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "806a60de-211d-40aa-b717-9882e1266201": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Martin Ristau & Team – Praxis für Kinderpsychiatrie und Jugendpsychiatrie, Kinderpsychologe und Arzt",
+      "full_address": "Karl-Marx-Straße 118, 12043 Berlin, Germany",
+      "website": "http://www.kinderpsychiatriepraxis-berlin.de/",
+      "type": "doctor,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.47808709999999,13.4378254",
+      "phone": "+49 30 684085910",
+      "opentime": [
+        "Monday: 8:30 AM – 6:00 PM",
+        "Tuesday: 8:30 AM – 6:00 PM",
+        "Wednesday: 8:30 AM – 6:00 PM",
+        "Thursday: 8:30 AM – 6:00 PM",
+        "Friday: 8:30 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "b2c524c2-1354-4db1-9235-867595d8c09a": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "BASE Shop Berlin",
+      "full_address": "Karl-Marx-Straße 78, 12043 Berlin, Germany",
+      "website": "https://www.base-berlin.com/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.48149,13.43399",
+      "phone": "+49 30 60690341",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "d7e808bc-5942-454c-9cf8-cabc6cddb5d0": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Karl-Marx-Straße 3",
+      "full_address": "Karl-Marx-Straße 3, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "premise",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "map_id": "52.4862869,13.4250618",
+      "phone": "n.a",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "0fb72e61-edcf-4975-94b8-34c81e47c10d": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "VERO MODA",
+      "full_address": "Neukölln Arcaden, Karl-Marx-Straße 66, 12043 Berlin, Germany",
+      "website": "http://www.veromoda.de/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4820997,13.4324364",
+      "phone": "+49 30 60690061",
+      "opentime": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "80496e1b-b973-4e7b-a311-4d74d960e1fb": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Kabel Deutschland Shop",
+      "full_address": "Karl-Marx-Straße 115, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.4784115,13.438326",
+      "phone": "+49 30 54857427",
+      "opentime": [
+        "Monday: 10:00 AM – 6:30 PM",
+        "Tuesday: 10:00 AM – 6:30 PM",
+        "Wednesday: 10:00 AM – 6:30 PM",
+        "Thursday: 10:00 AM – 6:30 PM",
+        "Friday: 10:00 AM – 6:30 PM",
+        "Saturday: 10:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "fc715eb3-4552-4d2a-8756-cca70a758f56": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "TARGOBANK",
+      "full_address": "Karl-Marx-Straße 118, 12043 Berlin, Germany",
+      "website": "https://www.targobank.de/",
+      "type": "bank,atm,finance,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "map_id": "52.4781649,13.4378572",
+      "phone": "+49 30 68989910",
+      "opentime": [
+        "Monday: 9:00 AM – 1:00 PM, 2:00 – 6:00 PM",
+        "Tuesday: 9:00 AM – 1:00 PM, 2:00 – 6:00 PM",
+        "Wednesday: 9:00 AM – 1:00 PM",
+        "Thursday: 9:00 AM – 1:00 PM, 2:00 – 6:00 PM",
+        "Friday: 9:00 AM – 1:00 PM, 2:00 – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "55afb403-7769-4317-b64d-d8243b82b202": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Al Zawak Berlin | مطعم الذواق برلين",
+      "full_address": "Karl-Marx-Straße 129, 12043 Berlin, Germany",
+      "website": "https://alzawakberlin.business.site/",
+      "type": "restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.477667,13.438749",
+      "phone": "n.a",
+      "opentime": [
+        "Monday: 9:00 AM – 12:00 AM",
+        "Tuesday: 9:00 AM – 12:00 AM",
+        "Wednesday: 9:00 AM – 12:00 AM",
+        "Thursday: 9:00 AM – 12:00 AM",
+        "Friday: 9:00 AM – 12:00 AM",
+        "Saturday: 9:00 AM – 12:00 AM",
+        "Sunday: 9:00 AM – 12:00 AM"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "16b5ac30-8074-49bb-8036-6d8193a1b5c3": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "FoodOutlet24.de",
+      "full_address": "Karl-Marx-Straße 108, 12043 Berlin, Germany",
+      "website": "https://www.foodoutlet24.de/",
+      "type": "grocery_or_supermarket,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.47884850000001,13.4372356",
+      "phone": "+49 30 346550442",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "83d7474d-d17a-4f42-8a0d-9b8291c8ff8b": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "H&M",
+      "full_address": "Karl-Marx-Straße 92-98, 12043 Berlin, Germany",
+      "website": "http://www.hm.com/de/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.480156,13.4355713",
+      "phone": "+49 800 6655900",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "b2afc866-5569-4d20-b880-09bc892e3193": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Frau Natalia Lehmann",
+      "full_address": "Karl-Marx-Straße 119, 12043 Berlin, Germany",
+      "website": "http://www.zahnarztpraxis-nlehmann.de/",
+      "type": "dentist,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.4781703,13.4384115",
+      "phone": "+49 30 68893131",
+      "opentime": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "c6aebd61-9151-4307-9405-923d25bd8fdb": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Berliner Sparkasse - FirmenCenter",
+      "full_address": "Karl-Marx-Straße 91, 12043 Berlin, Germany",
+      "website": "https://www.berliner-sparkasse.de/",
+      "type": "bank,finance,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "map_id": "52.4805568,13.4361292",
+      "phone": "+49 30 86986969",
+      "opentime": [
+        "Monday: 9:30 AM – 3:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 3:00 PM",
+        "Thursday: 9:30 AM – 6:00 PM",
+        "Friday: 9:30 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "684b1eb7-c327-4e6a-9740-90581ecbb677": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "freemobile24",
+      "full_address": "Karl-Marx-Straße 121, 12043 Berlin, Germany",
+      "website": "http://ww.freemobile24.de/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4779764,13.4386252",
+      "phone": "+49 30 688154160",
+      "opentime": [
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "216ff7f7-387b-4304-aa55-39c5d0da4ed0": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Leckerback",
+      "full_address": "Karl-Marx-Straße 100, 12043 Berlin, Germany",
+      "website": "https://www.leckerback.com/",
+      "type": "bakery,cafe,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.4794254,13.4368508",
+      "phone": "+49 30 6632216",
+      "opentime": [
+        "Monday: 6:00 AM – 8:00 PM",
+        "Tuesday: 6:00 AM – 8:00 PM",
+        "Wednesday: 6:00 AM – 8:00 PM",
+        "Thursday: 6:00 AM – 8:00 PM",
+        "Friday: 6:00 AM – 8:00 PM",
+        "Saturday: 6:00 AM – 7:00 PM",
+        "Sunday: 7:00 AM – 7:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "0b4cb721-6021-4539-a432-8ad2a21984ea": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "K+K Schuhcenter",
+      "full_address": "Neuköllner Tor, Karl-Marx-Straße 231-235, 12055 Berlin, Germany",
+      "website": "http://www.k-und-k-schuhcenter.de/",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.468788,13.4436614",
+      "phone": "+49 30 92217033",
+      "opentime": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "9cabcea9-5d2a-49ed-b576-12b1a5d3f49d": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "SUNPOINT Solarium & WELLMAXX Bodyforming",
+      "full_address": "Karl-Marx-Straße 114/116, 12043 Berlin, Germany",
+      "website": "https://www.sunpoint.de/studiofinder/solarium-berlin-neukoelln",
+      "type": "beauty_salon,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.4783772,13.4377208",
+      "phone": "+49 30 34620695",
+      "opentime": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "6230ad04-eceb-46e8-9dc1-fa942aa862d2": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "AK Mobile / Vodafone FH",
+      "full_address": "Karl-Marx-Straße 104, 12043 Berlin, Germany",
+      "website": "http://www.akmobile.de/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.479104,13.437156",
+      "phone": "+49 30 70034634",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "44d0f7ca-b771-4bcc-b77a-ce883d05d994": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Karstadt Schnäppchencenter Berlin Neukölln",
+      "full_address": "Karl-Marx-Straße 101/105, 12043 Berlin, Germany",
+      "website": "http://www.karstadt.de/on/demandware.store/Sites-Karstadt-Site/de/Stores-Details?StoreID=001087",
+      "type": "department_store,jewelry_store,clothing_store,home_goods_store,store,restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4796054,13.4375134",
+      "phone": "+49 30 6899424",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "62bad043-323e-4c28-a962-80153096c584": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Picaldi",
+      "full_address": "Karl-Marx-Straße 126, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.47772269999999,13.4382455",
+      "phone": "+49 30 68231681",
+      "opentime": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 6:30 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "6c084656-8242-4ca5-a245-d65df3ff4632": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Back & Snack Frühstückshaus",
+      "full_address": "Karl-Marx-Straße 130, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "grocery_or_supermarket,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4774396,13.4383448",
+      "phone": "+49 30 56829266",
+      "opentime": [
+        "Monday: 5:00 AM – 11:30 PM",
+        "Tuesday: 5:00 AM – 11:30 PM",
+        "Wednesday: 5:00 AM – 11:30 PM",
+        "Thursday: 5:00 AM – 11:30 PM",
+        "Friday: 5:00 AM – 11:30 PM",
+        "Saturday: 5:00 AM – 11:30 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "1233423d-2a7b-4296-966f-3e5cf5ab99ab": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "bread and buns",
+      "full_address": "Karl-Marx-Straße 131, 12043 Berlin, Germany",
+      "website": "http://www.brotundbroetchen.de/",
+      "type": "bakery,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.47756320000001,13.4388532",
+      "phone": "+49 30 56828945",
+      "opentime": [
+        "Monday: 6:30 AM – 8:00 PM",
+        "Tuesday: 6:30 AM – 8:00 PM",
+        "Wednesday: 6:30 AM – 8:00 PM",
+        "Thursday: 6:30 AM – 8:00 PM",
+        "Friday: 6:30 AM – 8:00 PM",
+        "Saturday: 6:30 AM – 7:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "53b779c1-6997-4073-a9c0-e2730425bc69": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "HUMANA Secondhand & Vintage",
+      "full_address": "Karl-Marx-Straße 125, 12043 Berlin, Germany",
+      "website": "http://www.humana-second-hand.de/",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.477872,13.43857",
+      "phone": "+49 30 32519522",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "30dbcd33-4431-418a-9dac-a87bcb250977": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Tattoo & Piercing B1",
+      "full_address": "Karl-Marx-Straße 109, 12043 Berlin, Germany",
+      "website": "http://www.skinartculture.de/",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.47855,13.4380325",
+      "phone": "+49 30 56827721",
+      "opentime": [
+        "Monday: 11:00 AM – 7:30 PM",
+        "Tuesday: 11:00 AM – 7:30 PM",
+        "Wednesday: 11:00 AM – 7:30 PM",
+        "Thursday: 11:00 AM – 7:30 PM",
+        "Friday: 11:00 AM – 7:30 PM",
+        "Saturday: 1:00 – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "28108d10-d605-4153-b385-d320e88316da": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Back & Snack",
+      "full_address": "Karl-Marx-Straße 133, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "bakery,store,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.4773694,13.4385012",
+      "phone": "n.a",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "a755c26b-fefa-4576-8659-8da611609571": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Alte Post",
+      "full_address": "Karl-Marx-Straße 97, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.4799018,13.4372408",
+      "phone": "n.a",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "0a24fc56-4a8d-4f5d-bc63-cb8aa2c51b33": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Zinar Fidan Sportwetten e. K.",
+      "full_address": "Karl-Marx-Straße 218, 12055 Berlin, Germany",
+      "website": "n.a",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.47051,13.44109",
+      "phone": "n.a",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "055df437-63bf-470c-8415-d9a94345f8ae": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Elit Simit",
+      "full_address": "Karl-Marx-Straße 109, 12043 Berlin, Germany",
+      "website": "http://elitsimit.de/",
+      "type": "restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.4786988,13.4379782",
+      "phone": "+49 30 68085354",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "2c63b6ab-ea1d-4b43-9ef1-05c91956714f": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "AURREX Hörsysteme Berlin GmbH & Co. KG",
+      "full_address": "Karl-Marx-Straße 123, 12043 Berlin, Germany",
+      "website": "http://www.aurrex.de/",
+      "type": "store,health,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.477952,13.43852",
+      "phone": "+49 30 68080250",
+      "opentime": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "77fb86bd-f168-48dc-88c2-ae30aaeec508": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Telekom Shop",
+      "full_address": "Karl-Marx-Straße 109, 12043 Berlin, Germany",
+      "website": "https://shopsuche.telekomshop.de/shop_details/9949356",
+      "type": "store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4787421,13.4380388",
+      "phone": "+49 30 68081991",
+      "opentime": [
+        "Monday: 10:00 AM – 6:30 PM",
+        "Tuesday: 10:00 AM – 6:30 PM",
+        "Wednesday: 10:00 AM – 6:30 PM",
+        "Thursday: 10:00 AM – 6:30 PM",
+        "Friday: 10:00 AM – 6:30 PM",
+        "Saturday: 10:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "d6df08d5-be28-4467-8783-ba3b94ebb3c5": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "SWEET HOME Neukölln",
+      "full_address": "Karl-Marx-Straße 122, 12043 Berlin, Germany",
+      "website": "https://www.sweethome-store.com/kontakt",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.47796719999999,13.438008",
+      "phone": "+49 179 1248873",
+      "opentime": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "c2454ad9-07cb-485b-ae7f-e4e0faa7ef72": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "DEICHMANN",
+      "full_address": "Karl-Marx-Straße 102, 12043 Berlin, Germany",
+      "website": "https://stores.deichmann.com/berlin/berlin/karl-marx-strasse-102.html",
+      "type": "shoe_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.47928979999999,13.437053",
+      "phone": "+49 30 68893601",
+      "opentime": [
+        "Monday: 9:30 AM – 8:00 PM",
+        "Tuesday: 9:30 AM – 8:00 PM",
+        "Wednesday: 9:30 AM – 8:00 PM",
+        "Thursday: 9:30 AM – 8:00 PM",
+        "Friday: 9:30 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "a316a6ea-d0b6-4d97-8f6f-3ab0de5ad0a5": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Santander Consumer Bank AG Filiale Berlin - Neukölln",
+      "full_address": "Hermannpl. 5-6, 10967 Berlin, Germany",
+      "website": "http://www.santander.de/",
+      "type": "bank,atm,finance,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "map_id": "52.48697,13.4251922",
+      "phone": "+49 30 6887420",
+      "opentime": [
+        "Monday: 9:00 AM – 1:00 PM, 2:00 – 7:00 PM",
+        "Tuesday: 9:00 AM – 1:00 PM, 2:00 – 7:00 PM",
+        "Wednesday: 9:00 AM – 1:00 PM, 2:00 – 4:00 PM",
+        "Thursday: 9:00 AM – 1:00 PM, 2:00 – 7:00 PM",
+        "Friday: 9:00 AM – 1:00 PM, 2:00 – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "f35c295c-c1e9-459a-8889-2c1419990e96": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Santander Bank, Filiale Berlin Neukölln",
+      "full_address": "Karl-Marx-Straße 109, 12043 Berlin, Germany",
+      "website": "http://www.santander.de/",
+      "type": "bank,finance,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "map_id": "52.4787452,13.4380425",
+      "phone": "+49 30 68874520",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "6c91dfdf-a990-4ccf-a490-a42db4ce6e5f": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Fortuna-Wetten GmbH",
+      "full_address": "Karl-Marx-Straße 127, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.4777172,13.4386676",
+      "phone": "n.a",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "4d5fdb7d-5f12-42cc-b8ba-e25aea357729": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Ditescom GmbH",
+      "full_address": "Karl-Marx-Straße 124, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "finance,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4778781,13.4381189",
+      "phone": "+49 30 62726224",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "457f2233-2a3d-4529-a0f7-77fa840e1abe": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "PELI ONE",
+      "full_address": "Karl-Marx-Straße 109, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "clothing_store,store,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "map_id": "52.4787452,13.4380425",
+      "phone": "+49 30 79748305",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "81d49a72-d6a6-4051-8fdc-22b9bb4e1adb": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Pokerfloor",
+      "full_address": "Hasenheide 107, 10967 Berlin, Germany",
+      "website": "http://www.spielbank-berlin.de/pokerfloor/hasenheide",
+      "type": "casino,point_of_interest,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "map_id": "52.48684189999999,13.4216457",
+      "phone": "+49 30 25599337",
+      "opentime": "n.a"
+    }
+  },
+  {
+    "street_id": "ac48501e-00e3-40a6-8a6c-42b4508c20d2",
+    "0e91beae-cea5-44be-af19-471f7124cf78": {
+      "street_name": "karl-marx-straße",
+      "city_name": "Berlin",
+      "business_name": "Döner 44",
+      "full_address": "Karl-Marx-Straße 119, 12043 Berlin, Germany",
+      "website": "n.a",
+      "type": "meal_takeaway,restaurant,point_of_interest,food,establishment",
+      "icon_url": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "map_id": "52.47816479999999,13.4383468",
+      "phone": "+49 30 68084597",
+      "opentime": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 11:00 AM – 6:00 PM",
+        "Saturday: 11:00 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM"
+      ]
+    }
+  }
+]
