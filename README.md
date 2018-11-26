@@ -1,9 +1,9 @@
-# RetailStreets - Data Access Portal
+# RetailStreets - Data Access Portal  [Live Version](https://retailstreet.herokuapp.com/) 
 > Search Retail Businesses in more than 500 Shopping Centers & 1000 Shopping Streets in Germany.
 
-[![NPM Version][npm-image]][npm-url]
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
-This website
+[React](https://reactjs.org/) Single-Page app for instant searching and filtering through JSON files.
 
 ## build chain
 
@@ -45,7 +45,7 @@ npm run dev
 
 
 **4. Then in your browser go:**
- - `http://localhost:3000/`(*server in on port '5000'*)
+ - `http://localhost:3000/`(*server in on port `5000`*)
 
 
 ## Build
@@ -59,13 +59,6 @@ npm run build
 ```bash
 npm run prod
 ```
-## Meta
+## Author
 
-Ahmed Riahi – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
+Ahmed Riahi – [@LinkedIn](https://www.linkedin.com/in/ahmed-riahi-24011b85/)
