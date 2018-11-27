@@ -4,7 +4,10 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
 [React](https://reactjs.org/) Single-Page app for instant searching and filtering through JSON files.
+This website is a part of [the Business Information System Software](https://github.com/cygniv404/BIS-software).
+For more information on the Project: You can find [the Documentation](https://www.web-profashion.de/Validation%20and%20Analysis%20for%20Business%20Information%20System.pdf).
 
+You can consult also the Business Information System software following this link.
 ## build chain
 
  - webpack (*with `hot reload` for smoother developement*)
