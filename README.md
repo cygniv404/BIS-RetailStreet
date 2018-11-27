@@ -2,7 +2,7 @@
 > Search Retail Businesses in more than 500 Shopping Centers & 1000 Shopping Streets in Germany.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) 
-[![NPM version](https://badge.fury.io/{{programming_language:js)](py}}/{{project_name}}.svg)
+NPM version|https://badge.fury.io/{{programming_language:js\|py}}/{{BIS}}.svg|http://badge.fury.io/{{programming_language:js\|py}}/{{BIS}}
 [![react version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
 [React](https://reactjs.org/) Single-Page app for instant searching and filtering through JSON files.
