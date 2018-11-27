@@ -1,7 +1,9 @@
 # RetailStreets - Data Access Portal  [Live Version](https://retailstreet.herokuapp.com/) 
 > Search Retail Businesses in more than 500 Shopping Centers & 1000 Shopping Streets in Germany.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) 
+[![NPM version](https://badge.fury.io/{{programming_language:js)](py}}/{{project_name}}.svg)
+[![react version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
 [React](https://reactjs.org/) Single-Page app for instant searching and filtering through JSON files.
 This website is a part of [the Business Information System Software](https://github.com/cygniv404/BIS-software).
