@@ -1,7 +1,7 @@
-# RetailStreets - Data Access Portal  [Live Version](https://retailstreet.herokuapp.com/) 
+# RetailStreets - Data Access Portal  [Live Version](https://retailstreet.herokuapp.com/)
 > Search Retail Businesses in more than 500 Shopping Centers & 1000 Shopping Streets in Germany.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE)
 [![React version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
 [React](https://reactjs.org/) Single-Page app for instant searching and filtering through JSON files.
@@ -24,7 +24,7 @@ You can consult also the Business Information System software following this lin
 *source files in `client/` folder.*
 ## back-end
 
- - `NodeJS` (ES6) 
+ - `NodeJS` (ES6)
  - `ExpressJS`(* NodeJS server framework used *)
 
 *source files in `/` folder*
@@ -33,7 +33,7 @@ You can consult also the Business Information System software following this lin
 
 **1. Be sure to have previously installed on your machine:**
 
- - NodeJS 
+ - NodeJS
 
 **2. Then, just install all packages by:**
 
@@ -41,10 +41,21 @@ You can consult also the Business Information System software following this lin
 npm install
  ```
 
+ and then install the packages needed by the react app so first:
+
+ ```bash
+cd client
+ ```
+ Then:
+ 
+ ```bash
+npm install
+ ```
+
 **3. launch application :**
 
 ```bash
-npm run dev 
+npm run dev
 ```
 
 
