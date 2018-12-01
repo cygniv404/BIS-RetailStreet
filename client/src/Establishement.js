@@ -43,7 +43,7 @@ class Establishement extends Component {
     if (this)
     var website= <a href={this.props.business.website} target="_blank" rel="noopener noreferrer" className="text-center text-uppercase s-link">{this.props.business.website}</a>
     if (this.props.business.website === "n.a") {
-      website= <a href="#" className="text-center text-uppercase s-link" onClick={this.default}>Not Available</a>
+      website= <button className="text-center text-uppercase s-link" onClick={this.default}>Not Available</button>
     }
     if (this.props.business.website.length> 40){
       website= <a href={this.props.business.website} target="_blank" rel="noopener noreferrer" className="text-center text-uppercase s-link">{this.props.business.website.substr(0,35)+"..."}</a>
@@ -53,7 +53,7 @@ class Establishement extends Component {
     return (
       <div className=" col-md-12 featured-item feature-border-box text-left wow fadeIn shadow">
                     <div className="icon icon-searchfield">
-                      <img ref="business_image" src={this.props.business.icon_url} style={{width:"60px", height:"60px", }} />
+                      <img src={this.props.business.icon_url} alt="business_image" style={{width:"60px", height:"60px", }} />
                     </div>
                     <div className="title-searchfield text-uppercase">
                         <h4>{this.props.business.business_name}</h4>

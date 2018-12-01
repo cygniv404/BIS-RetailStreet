@@ -1,15 +1,16 @@
 import React, { Component } from 'react';
-import ShoppingMall from './ShoppingMall';
-import ShoppingCenter from './data/ShoppingCenters.json';
+import Establishement from './Establishement';
+import Streets from './data/business.json';
 import axios from 'axios';
-class AppMall extends Component {
+
+class AppStreet extends Component {
   constructor(){
     super();
     this.state ={
       search:'',
       searchs:[],
       inputValue:"",
-      database:ShoppingCenter,
+      database:Streets,
       health_condition:false,
       health:"Isnotactive",
       telecom_condition:false,
@@ -76,7 +77,7 @@ class AppMall extends Component {
     var results=false
     if (filter_array.length<3){
       filter_array.map((f)=>{
-            if (result.name.toString().toLowerCase().indexOf(f.toString().toLowerCase()) !==-1){
+            if (result.city_name.toString().toLowerCase().indexOf(f.toString().toLowerCase()) !==-1){
               results= true
             }
             return null
@@ -86,10 +87,10 @@ class AppMall extends Component {
       filter_array.map((f)=>{
             if (result.type.toString().toLowerCase().indexOf(f.toString().toLowerCase()) !==-1){
               results= true
-
             }
             return null
           })
+
     }
 
     return results
@@ -118,7 +119,7 @@ class AppMall extends Component {
 
                                       <div className="col-sm-12 subscribe-info " style={{paddingLeft: 0 }}>
 
-                                          <h3>Subscribe to our Newsletter to get our latest updates about Shopping Centers </h3>
+                                          <h3>Subscribe to our Newsletter to get our latest updates in Retailstreets Businesses</h3>
                                       </div>
 
                                   </div>
@@ -186,14 +187,14 @@ class AppMall extends Component {
     console.log(_search.length)
     var _search_len = _search.length
 
-    let filteredmalls = this.state.database.filter(
-       (Mall)=> { var contentKeys = Object.keys(Mall)
-                     var _mall = contentKeys[0]
-                      if (this.result_object(Mall[_mall].name,_search[0])     ||
-                          this.result_object(Mall[_mall].street,_search[0])       ||
-                          this.result_object(Mall[_mall].PLZ,_search[0])   ||
-                          this.result_object(Mall[_mall].city,_search[0])    ||
-                          this.result_object(Mall[_mall].region,_search[0])) {return Mall}
+    let filteredstreets = this.state.database.filter(
+       (Street)=> { var contentKeys = Object.keys(Street)
+                     var business = contentKeys[1]
+                      if (this.result_object(Street[business].street_name,_search[0])     ||
+                          this.result_object(Street[business].city_name,_search[0])       ||
+                          this.result_object(Street[business].business_name,_search[0])   ||
+                          this.result_object(Street[business].full_address,_search[0])    ||
+                          this.result_object(Street[business].type,_search[0])) {return Street}
                       return null
 
        }
@@ -201,87 +202,141 @@ class AppMall extends Component {
 
     if(_search_len > 1){
       for (var i = _search_len-1; i> 0; i--){
-         filteredmalls = filteredmalls.filter(
+         filteredstreets = filteredstreets.filter(
            // eslint-disable-next-line no-loop-func
-            (Mall)=> { var contentKeys = Object.keys(Mall)
-                          var _mall = contentKeys[0]
-                           if (this.result_object(Mall[_mall].name,_search[i])     ||
-                               this.result_object(Mall[_mall].street,_search[i])       ||
-                               this.result_object(Mall[_mall].PLZ,_search[i])   ||
-                               this.result_object(Mall[_mall].city,_search[i])    ||
-                               this.result_object(Mall[_mall].region,_search[i])) {return Mall}
+            (Street)=> { var contentKeys = Object.keys(Street)
+                          var business = contentKeys[1]
+                           if (this.result_object(Street[business].street_name,_search[i])     ||
+                               this.result_object(Street[business].city_name,_search[i])       ||
+                               this.result_object(Street[business].business_name,_search[i])   ||
+                               this.result_object(Street[business].full_address,_search[i])    ||
+                               this.result_object(Street[business].type,_search[i])) {return Street}
                           return null
+
             }
           )
       }
     }
 
+    if (this.state.health === "Isactive") {
+          filteredstreets=filteredstreets.filter((Street)=> { var contentKeys = Object.keys(Street)
+                        var business = contentKeys[1]
+                        var filter=["health","beauty_salon","clothing_store","gym","hair_care","jewelry_store","pharmacy","physiotherapist","shoe_store","shopping_mall","spa","supermarket","veterinary_care"]
+                        if (this.filter_result_object(Street[business],filter)){
+                          return Street[business]
+                        }
+                        return null
+                      }
+                    )
+        var health_count = <b><i style={{color:"#29ABE2"}}>{filteredstreets.length}</i></b>
+      }
 
-    if (this.state.berlin === "Isactive") {
-        filteredmalls=filteredmalls.filter((Mall)=> { var contentKeys = Object.keys(Mall)
-                      var _mall = contentKeys[0]
-                      var filter=["berlin"]
-                    if (this.filter_result_object(Mall[_mall],filter)){
-                      return Mall[_mall]
+    if (this.state.telecom === "Isactive") {
+        filteredstreets=filteredstreets.filter((Street)=> { var contentKeys = Object.keys(Street)
+                      var business = contentKeys[1]
+                      var filter=["electrician","electronics_store","hardware_store","locksmith","movie_rental","movie_theater","storage"]
+                      if (this.filter_result_object(Street[business],filter)){
+                        return Street[business]
+                      }
+                      return null
+                    }
+                  )
+      var telecom_count = <b><i style={{color:"#29ABE2"}}>{filteredstreets.length}</i></b>
+    }
+
+    if (this.state.food === "Isactive") {
+        filteredstreets=filteredstreets.filter((Street)=> { var contentKeys = Object.keys(Street)
+                      var business = contentKeys[1]
+                      var filter=["bakery","bar","cafe","food","liquor_store","meal_takeaway","restaurant"]
+                      if (this.filter_result_object(Street[business],filter)){
+                        return Street[business]
+                      }
+                      return null
+                    }
+                  )
+      var food_count = <b><i style={{color:"#29ABE2"}}>{filteredstreets.length}</i></b>
+    }
+
+    if (this.state.other === "Isactive") {
+        filteredstreets=filteredstreets.filter((Street)=> { var contentKeys = Object.keys(Street)
+                      var business = contentKeys[1]
+                      var filter=["art_gallery","bank","bicycle_store","book_store","bowling_alley","car_dealer","car_rental","car_repair"
+                    ,"car_wash","casino","convenience_store","department_store","florist","furniture_store","home_goods_store","insurance_agency"
+                    ,"laundry","lawyer","meal_delivery","moving_company","night_club","painter","pet_store","plumber","real_estate_agency","roofing_contractor","store","travel_agency"]
+                    if (this.filter_result_object(Street[business],filter)){
+                      return Street[business]
                     }
                     return null
                     }
                   )
-      var berlin_count = <b><i style={{color:"#29ABE2"}}>{filteredmalls.length}</i></b>
+      var other_count = <b><i style={{color:"#29ABE2"}}>{filteredstreets.length}</i></b>
+    }
+
+    if (this.state.berlin === "Isactive") {
+        filteredstreets=filteredstreets.filter((Street)=> { var contentKeys = Object.keys(Street)
+                      var business = contentKeys[1]
+                      var filter=["berlin"]
+                    if (this.filter_result_object(Street[business],filter)){
+                      return Street[business]
+                    }
+                    return null
+                    }
+                  )
+      var berlin_count = <b><i style={{color:"#29ABE2"}}>{filteredstreets.length}</i></b>
     }
 
     if (this.state.hamburg === "Isactive") {
-        filteredmalls=filteredmalls.filter((Mall)=> { var contentKeys = Object.keys(Mall)
-                      var _mall = contentKeys[0]
+        filteredstreets=filteredstreets.filter((Street)=> { var contentKeys = Object.keys(Street)
+                      var business = contentKeys[1]
                       var filter=["hamburg"]
-                    if (this.filter_result_object(Mall[_mall],filter)){
-                      return Mall[_mall]
+                    if (this.filter_result_object(Street[business],filter)){
+                      return Street[business]
                     }
                     return null
                     }
                   )
-      var hamburg_count = <b><i style={{color:"#29ABE2"}}>{filteredmalls.length}</i></b>
+      var hamburg_count = <b><i style={{color:"#29ABE2"}}>{filteredstreets.length}</i></b>
     }
 
     if (this.state.muenchen === "Isactive") {
-        filteredmalls=filteredmalls.filter((Mall)=> { var contentKeys = Object.keys(Mall)
-                      var _mall = contentKeys[0]
+        filteredstreets=filteredstreets.filter((Street)=> { var contentKeys = Object.keys(Street)
+                      var business = contentKeys[1]
                       var filter=["münchen","muenchen"]
-                    if (this.filter_result_object(Mall[_mall],filter)){
-                      return Mall[_mall]
+                    if (this.filter_result_object(Street[business],filter)){
+                      return Street[business]
                     }
                     return null
                     }
                   )
-      var muenchen_count = <b><i style={{color:"#29ABE2"}}>{filteredmalls.length}</i></b>
+      var muenchen_count = <b><i style={{color:"#29ABE2"}}>{filteredstreets.length}</i></b>
     }
 
     if (this.state.frankfurt === "Isactive") {
-        filteredmalls=filteredmalls.filter((Mall)=> { var contentKeys = Object.keys(Mall)
-                      var _mall = contentKeys[0]
+        filteredstreets=filteredstreets.filter((Street)=> { var contentKeys = Object.keys(Street)
+                      var business = contentKeys[1]
                       var filter=["frankfurt"]
-                    if (this.filter_result_object(Mall[_mall],filter)){
-                      return Mall[_mall]
+                    if (this.filter_result_object(Street[business],filter)){
+                      return Street[business]
                     }
                     return null
                     }
                   )
-      var frankfurt_count = <b><i style={{color:"#29ABE2"}}>{filteredmalls.length}</i></b>
+      var frankfurt_count = <b><i style={{color:"#29ABE2"}}>{filteredstreets.length}</i></b>
     }
 
-    result_length = filteredmalls.length
+    result_length = filteredstreets.length
     if (result_length > 6){
-      filteredmalls =  filteredmalls.slice(0,this.state.more+5)
+      filteredstreets =  filteredstreets.slice(0,this.state.more+5)
     }
 
     return (
       <div className="container">
         <div className="row">
         <div className="heading-title text-center">
-        <h2 className="text-uppercase">Shopping Centers</h2>
+        <h2 className="text-uppercase">Retail Streets</h2>
         <div className="row p-top-30">
         <div className="col-md-12 ">
-        <input value={this.state.inputValue} type="text" className="form-control input-lg shadow"  placeholder="Mall name, street, city, postalcode, state.."  onChange={this.updatesearchvalue.bind(this)}/>
+        <input value={this.state.inputValue} type="text" className="form-control input-lg shadow"  placeholder="establishment name, Street name, city, postalcode, state.."  onChange={this.updatesearchvalue.bind(this)}/>
 
         </div>
 
@@ -293,6 +348,18 @@ class AppMall extends Component {
                   <i className="icon-basic_settings"></i>
               </div>
               <div className="row">
+              <div className="col-xs-12 col-sm-6 col-md-12">
+              <div className="title text-uppercase">
+                  <h3>Business</h3>
+              </div>
+
+                  <div className="row"><div className="col-xs-12 col-sm-3 col-md-3" style={{padding:"0px"}}><input type="checkbox" className="uiswitch" name="health" value={this.state.health_condition} onChange={this.filter_result.bind(this)}></input></div><div className="col-xs-12 col-sm-9 col-md-9" style={{padding:"2% 0 0 0"}} > <h4 style={{margin:"0"}}>Health & Beauty {health_count}</h4></div></div>
+                  <div className="row"><div className="col-xs-12 col-sm-3 col-md-3 " style={{padding:"0px"}}><input type="checkbox" className="uiswitch" name="telecom" value={this.state.telecom_condition ? "Isactive" :"Isnotactive"} onChange={this.filter_result.bind(this)}></input></div><div className="col-xs-12 col-sm-9 col-md-9 " style={{padding:"2% 0 0 0"}} > <h4 style={{margin:"0"}}>  Electronics {telecom_count}</h4></div></div>
+                  <div className="row"><div className="col-xs-12 col-sm-3 col-md-3 " style={{padding:"0px"}}><input type="checkbox" className="uiswitch" name="food" value={this.state.food_condition ? "Isactive" :"Isnotactive"} onChange={this.filter_result.bind(this)}></input></div><div className="col-xs-12 col-sm-9 col-md-9" style={{padding:"2% 0 0 0"}} > <h4 style={{margin:"0"}}>  Food & Service {food_count}</h4></div></div>
+                  <div className="row"><div className="col-xs-12 col-sm-3 col-md-3 " style={{padding:"0px"}}><input type="checkbox" className="uiswitch" name="other" value={this.state.other_condition ? "Isactive" :"Isnotactive"} onChange={this.filter_result.bind(this)}></input></div><div className="col-xs-12 col-sm-9 col-md-9" style={{padding:"2% 0 0 0"}} > <h4 style={{margin:"0"}}>  Other {other_count}</h4></div></div>
+
+            </div>
+
             <div className="col-xs-12 col-sm-6 col-md-12">
               <div className="title text-uppercase">
                   <h3>City</h3>
@@ -311,11 +378,11 @@ class AppMall extends Component {
       <div className="col-md-8">
       <div className="container-fluid" ref="result">
       {
-        filteredmalls.map((Mall)=> {
-          var contentkeys = Object.keys(Mall)
+        filteredstreets.map((Street)=> {
+          var contentkeys = Object.keys(Street)
 
-          var _mall= contentkeys[0]
-          return <ShoppingMall  mall={Mall[_mall]} mall_id={_mall} />
+          var business= contentkeys[1]
+          return <Establishement onSelectStreet={this.updatesearchvalue.bind(this)} business={Street[business]} business_id={business} street_id={Street.street_id.toString()} />
         })
       }
       <div className="col-md-12 featured-item text-center wow fadeIn " style ={{padding:"10px", }}>
@@ -334,4 +401,4 @@ class AppMall extends Component {
   }
 }
 
-export default AppMall;
+export default AppStreet;

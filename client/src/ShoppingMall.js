@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-//import FetchGoogleImage from './FetchGoogleImage.js'
+import Shops from "./Shops"
 class ShoppingMall extends Component {
 
   constructor(){
@@ -27,7 +27,7 @@ class ShoppingMall extends Component {
 
     var website= <a href={this.props.mall.website} target="_blank" rel="noopener noreferrer" className="text-center text-uppercase s-link">{this.props.mall.website}</a>
     if (this.props.mall.website === "Not Available") {
-      website= <a href="#" className="text-center text-uppercase s-link" onClick={this.default}>Not Available</a>
+      website= <button href="#" className="text-center text-uppercase s-link" onClick={this.default}>Not Available</button>
     }
     if (this.props.mall.website.length> 40){
       website= <a href={this.props.mall.website} target="_blank" rel="noopener noreferrer" className="text-center text-uppercase s-link">{this.props.mall.website.substr(0,35)+"..."}</a>
@@ -37,7 +37,9 @@ class ShoppingMall extends Component {
     return (
       <div className=" col-md-12 featured-item feature-border-box text-left wow fadeIn shadow">
                     <div className="icon icon-searchfield">
-                      <img ref="business_image" src="./01.jpg" style={{width:"60px", height:"60px", }} />
+
+                      {/*<img alt="business_image" src="/src/01.jpg" style={{width:"60px", height:"60px", }} />*/}
+
                     </div>
                     <div className="title-searchfield text-uppercase">
                         <h4>{this.props.mall.name}</h4>
@@ -48,57 +50,87 @@ class ShoppingMall extends Component {
                     </div>
                     <div className={"info-searchfield "+(this.state.condition ? "active" :"")}>
 
-                      <div className="container-fluid m-bot-30">
-                        <div className="row">
-                          <div className="col-sm-6 col-md-4 type-searchfield ">
+                      <div className="container-fluid m-bot-30" style={{width:"100%"}}>
+                        <div className="row"  >
+                          <div className="col-sm-6 col-md-3 type-searchfield ">
                             <div className="text-uppercase shadow-text">
-                                <h4>Open hours</h4>
+                                <h4 className="m-bot-0 m-top-0">Open hours</h4>
                             </div>
-                            <div className="desc" style={{"fontSize":"12px"}}>
+                            <div className="desc margin-0" style={{"fontSize":"12px"}}>
                             {
                               openhours.map((ot)=>{
-                              return <p style={{margin:"auto"}}>{ot}</p>
+                              return <p style={{margin:"auto", fontSize:"20px"}}>{ot}</p>
                               })
                           }
                           </div>
                           </div>
-                          <div className="col-sm-6 col-md-4 type-searchfield">
+                          <div className="col-sm-6 col-md-3 type-searchfield">
                             <div className="text-uppercase shadow-text">
                               <h4 className="m-bot-0 m-top-0">open year</h4>
                               </div>
                               <div className="desc margin-0" style={{"fontSize":"12px"}}>
-                              <p style={{margin:"auto"}} >{this.props.mall.open_year}</p>
+                              <p style={{margin:"auto" , fontSize:"20px"}} >{this.props.mall.open_year}</p>
                             </div>
+                          </div>
+                          <div className="col-sm-6 col-md-3 type-searchfield">
                             <div className="text-uppercase shadow-text">
-                              <h4 className="m-bot-0 m-top-0">location type</h4>
+                              <h4 className="m-bot-0 m-top-0">location</h4>
                               </div>
                               <div className="desc margin-0" style={{"fontSize":"12px"}}>
-                              <p style={{margin:"auto"}} >{this.props.mall.location_type}</p>
+                              <p style={{margin:"auto" , fontSize:"20px"}} >{this.props.mall.location_type}</p>
                             </div>
-                              <div className="text-uppercase shadow-text">
-                              <h4 className="m-bot-0 m-top-0">Phone</h4>
-                              </div>
-                              <div className="desc" style={{"fontSize":"12px"}}>
-                              <p  className="margin-0">{this.props.mall.phone}</p></div>
+                          </div>
+                          <div className="col-sm-6 col-md-3 type-searchfield">
                               <div className="text-uppercase shadow-text">
                               <h4 className="m-bot-0 m-top-0" >email</h4>
                               </div>
-                              <div className="desc" style={{"fontSize":"12px"}}>
-                              <p className="margin-0">
-                              <a className="text-center text-uppercase s-link" href="#start" onClick={this.handelingclick}>{this.props.mall.email}</a></p>
+                              <div className="desc margin-0" style={{"fontSize":"12px"}}>
+                              <p style={{margin:"auto" , fontSize:"20px"}}><a className="text-center text-uppercase s-link" href={"mailto:"+this.props.mall.email} onClick={this.handelingclick}>{this.props.mall.email.toString().substr(0,9)}...</a></p>
                               </div>
                           </div>
-                          <div className="col-md-4 map-searchfield">
-                            <div className="desc">
 
-                            <img className="shadow" src={"http://localhost:3000/img/gis/8972e619-d00d-4cce-94c9-31c383bb32bb/81deaaa7-9924-45d0-a601-37db82c1c46d.png"} alt="map" style={{width:"100%"}}/>
-                          </div>
-                          </div>
                         </div>
+                        <div className="row"  >
+                          <div className="col-sm-6 col-md-3 type-searchfield">
+                            <div className="text-uppercase shadow-text">
+                              <p className="m-bot-0 m-top-0">magnet shops</p>
+                              </div>
+                              <div className="desc margin-0" style={{"fontSize":"12px"}}>
+                              <p style={{margin:"auto" , fontSize:"20px"}} >{parseInt(this.props.mall.n_magnet_shops)}</p>
+                            </div>
+                          </div>
+                          <div className="col-sm-6 col-md-3 type-searchfield">
+                            <div className="text-uppercase shadow-text ">
+                              <p className="m-bot-0 m-top-0">area <i style={{textTransform: "lowercase"}}>m²</i></p>
+                              </div>
+                              <div className="desc margin-0" style={{"fontSize":"12px"}}>
+                              <p style={{margin:"auto" , fontSize:"20px"}} >{this.props.mall.area_total}</p>
+                            </div>
+                          </div>
+                          <div className="col-sm-6 col-md-3 type-searchfield">
+
+                              <div className="text-uppercase shadow-text">
+                              <p className="m-bot-0 m-top-0">rented area <i style={{textTransform: "lowercase"}}>m²</i></p>
+                              </div>
+                              <div className="desc margin-0" style={{"fontSize":"12px"}}>
+                              <p  style={{margin:"auto" , fontSize:"20px"}}>{this.props.mall.area_rent}</p></div>
+
+                          </div>
+                          <div className="col-sm-6 col-md-3 type-searchfield">
+                              <div className="text-uppercase shadow-text">
+                              <p className="m-bot-0 m-top-0" >parkinglots</p>
+                              </div>
+                              <div className="desc margin-0" style={{"fontSize":"12px"}}>
+                              <p style={{margin:"auto" , fontSize:"20px"}}>{this.props.mall.parkinglots}</p>
+                              </div>
+                          </div>
+
+                        </div>
+                        <Shops shop={this.props.mall.shops} />
                       </div>
 
                   </div>
-                  <div className="icon icon-searchfield-viewmore expand" onClick={this.handleClick}>
+                  <div className="icon icon-searchfield-viewmore expand" style={this.state.condition? {top:97.5+'%'} :{}} onClick={this.handleClick}>
                       <i  className={"icon-arrows_down_double-34 icon1 icon-expand "+(this.state.condition ? "active" :"")}/>
                     <i  className={"icon-arrows_up_double-33 icon2 icon-expand "+(this.state.condition ? "active2" :"")}/>
 

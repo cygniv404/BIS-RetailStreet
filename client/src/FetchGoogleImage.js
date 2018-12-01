@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import Business from './data/business.json';
 import Lightbox from "react-image-lightbox";
 import "react-image-lightbox/style.css";
 class FetchGoogleImage extends Component {
@@ -36,7 +35,8 @@ render(){
         this.testimage()
 
         return (
-        <a href="#" onClick={(event) => {
+          // eslint-disable-next-line
+        <a style={{margin:0,padding:0}} onClick={(event) => {
           this.setState({ isOpen: true })
           event.preventDefault()
           }
