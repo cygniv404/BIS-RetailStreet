@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Establishement from './Establishement';
 import Streets from './data/business.json';
-import axios from 'axios';
+import Axios from 'axios';
 
 class AppStreet extends Component {
   constructor(){
@@ -28,6 +28,9 @@ class AppStreet extends Component {
       frankfurt_condition:false,
       frankfurt:"Isnotactive",
       more:0,
+      open: false,
+      vertical: 'top',
+      horizontal: 'center',
     };
 
     this.loadmore= this.loadmore.bind(this)
@@ -133,6 +136,7 @@ class AppStreet extends Component {
                                                   </button>
                                               </form>
                                           </div>
+
                                       </div>
                                   </div>
 
@@ -145,7 +149,7 @@ class AppStreet extends Component {
         //const name = document.getElementById('name').value;
         const email = document.getElementById('email').value;
         //const message = document.getElementById('message').value;
-        axios({
+        Axios({
             method: "POST",
             url:"http://localhost:5000/api/mail",
             data: {
@@ -184,7 +188,7 @@ class AppStreet extends Component {
     if (_empty>-1){
       _search.splice(_empty)
     }
-    console.log(_search.length)
+
     var _search_len = _search.length
 
     let filteredstreets = this.state.database.filter(

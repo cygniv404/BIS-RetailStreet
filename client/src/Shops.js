@@ -7,7 +7,6 @@ class Shops extends Component {
       page: 0,
       rowsPerPage: 5
     }
-    this.getShopsArray=this.getShopsArray.bind(this)
   }
 
   handleChangePage = (event, page) => {
@@ -17,10 +16,7 @@ class Shops extends Component {
   handleChangeRowsPerPage = event => {
     this.setState({ rowsPerPage: event.target.value });
   };
-  getShopsArray = () => {
-    //const shops = this.props.shop
-    return null
-  }
+
   render() {
     return (
       <table>
@@ -37,7 +33,7 @@ class Shops extends Component {
                   <td>
                     {row.name}
                   </td>
-                  <td numeric>{row.description}</td>
+                  <td >{row.description}</td>
                 </tr>
               );
             })}

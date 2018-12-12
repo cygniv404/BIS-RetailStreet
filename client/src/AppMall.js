@@ -183,7 +183,7 @@ class AppMall extends Component {
     if (_empty>-1){
       _search.splice(_empty)
     }
-    console.log(_search.length)
+
     var _search_len = _search.length
 
     let filteredmalls = this.state.database.filter(

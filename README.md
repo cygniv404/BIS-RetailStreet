@@ -47,12 +47,12 @@ npm install
 cd client
  ```
  Then:
- 
+
  ```bash
 npm install
  ```
 
-**3. launch application :**
+**3. launch application from root directory:**
 
 ```bash
 npm run dev

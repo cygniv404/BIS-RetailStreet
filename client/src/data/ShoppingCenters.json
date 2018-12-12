@@ -1257,7 +1257,7 @@
       "phone": "Not Available",
       "parkinglots": "700",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -8292,7 +8292,7 @@
       "phone": "+49 6051 889 27 12",
       "parkinglots": "0",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -10457,7 +10457,7 @@
       "phone": "Not Available",
       "parkinglots": "300",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -13764,7 +13764,7 @@
       "phone": "Not Available",
       "parkinglots": "500",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -19351,7 +19351,7 @@
       "phone": "0911/ 76664 0",
       "parkinglots": "535",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -27192,7 +27192,7 @@
       "phone": "Not Available",
       "parkinglots": "240",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -27391,7 +27391,7 @@
       "phone": "Not Available",
       "parkinglots": "0",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -28146,7 +28146,7 @@
       "phone": "Not Available",
       "parkinglots": "560",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -28399,7 +28399,7 @@
       "phone": "+49 2562/ 70516",
       "parkinglots": "0",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -31382,7 +31382,7 @@
       "phone": "Not Available",
       "parkinglots": "0",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -33693,7 +33693,7 @@
       "phone": "+49 365 551473-5",
       "parkinglots": "350",
       "open_time": "Mo. - Sa.: 09:00 - 19:00 ",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -35670,7 +35670,7 @@
       "phone": "+49 3733 5967811",
       "parkinglots": "1.000",
       "open_time": "Mo. - Fr.: 09:00 - 19:00 ; Sa.: 09:00 - 18:00 ",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -37517,7 +37517,7 @@
       "phone": "Not Available",
       "parkinglots": "450",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -38664,7 +38664,7 @@
       "phone": "+49 30 60911150",
       "parkinglots": "2.693",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -41141,7 +41141,7 @@
       "phone": "Not Available",
       "parkinglots": "0",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -43706,7 +43706,7 @@
       "phone": "Not Available",
       "parkinglots": "1.000",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -44159,7 +44159,7 @@
       "phone": "Not Available",
       "parkinglots": "400",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -54366,7 +54366,7 @@
       "phone": "Not Available",
       "parkinglots": "400",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -55875,7 +55875,7 @@
       "phone": "Not Available",
       "parkinglots": "660",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -74308,7 +74308,7 @@
       "phone": "Not Available",
       "parkinglots": "0",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -82195,7 +82195,7 @@
       "phone": "Not Available",
       "parkinglots": "140",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -82566,7 +82566,7 @@
       "phone": "Not Available",
       "parkinglots": "480",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -84425,7 +84425,7 @@
       "phone": "+49 571 23093",
       "parkinglots": "530",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -85788,7 +85788,7 @@
       "phone": "Not Available",
       "parkinglots": "475",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -97173,7 +97173,7 @@
       "phone": "Not Available",
       "parkinglots": "400",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -99512,7 +99512,7 @@
       "phone": "Not Available",
       "parkinglots": "1.750",
       "open_time": "Mo. - Sa.: 08:00 - 22:00 ",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -105845,7 +105845,7 @@
       "phone": "Not Available",
       "parkinglots": "400",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -107374,7 +107374,7 @@
       "phone": "Not Available",
       "parkinglots": "450",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -108593,7 +108593,7 @@
       "phone": "Not Available",
       "parkinglots": "400",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -109874,7 +109874,7 @@
       "phone": "Not Available",
       "parkinglots": "570",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -116511,7 +116511,7 @@
       "phone": "Not Available",
       "parkinglots": "700",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -116834,7 +116834,7 @@
       "phone": "Not Available",
       "parkinglots": "700",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -121999,7 +121999,7 @@
       "phone": "Not Available",
       "parkinglots": "3.800",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
@@ -122214,7 +122214,7 @@
       "phone": "Not Available",
       "parkinglots": "500",
       "open_time": "Not Available",
-      "shops": "Not Available"
+      "shops": [{"name":"Not Available", "description":"Not Available"}]
     }
   },
   {
