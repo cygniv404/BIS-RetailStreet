@@ -8,7 +8,7 @@
 This website is a part of [the Business Information System Software](https://github.com/cygniv404/BIS-software).
 For more information on the Project: You can find [the Documentation](https://www.web-profashion.de/Validation%20and%20Analysis%20for%20Business%20Information%20System.pdf).
 
-You can consult also the Business Information System software following this link.
+You can consult also the Business Information System software following this [link](https://github.com/cygniv404/BIS-software).
 ## build chain
 
  - webpack (*with `hot reload` for smoother developement*)
